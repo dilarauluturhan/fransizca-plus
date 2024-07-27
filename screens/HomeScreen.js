@@ -2,9 +2,9 @@ import { View, Text, FlatList, TouchableOpacity, Linking } from "react-native";
 import React, { useState, useEffect } from "react";
 import SearchArea from "../components/SearchArea";
 import jsonData from "../data/data.json";
-import { CircleArrowRight } from "lucide-react-native";
+import { SquareArrowRight } from "lucide-react-native";
 
-export default function HomeScreen() {
+export default function HomeScreen({ navigation }) {
   const [categories, setCategories] = useState([]);
 
   useEffect(() => {
@@ -24,12 +24,18 @@ export default function HomeScreen() {
       </View>
       <FlatList
         data={categories}
-        keyExtractor={(index) => index.toString()}
+        keyExtractor={(item, index) => index.toString()}
         renderItem={({ item }) => (
-          <View className="flex flex-row items-center place-items-center gap-1 mt-2">
-            <CircleArrowRight size={26} color="#000000" strokeWidth={1.25} />
-            <Text className="text-2xl">{item}</Text>
-          </View>
+          <TouchableOpacity
+            onPress={() =>
+              navigation.navigate("Kaynak Listesi", { category: item })
+            }
+          >
+            <View className="flex flex-row items-center place-items-center gap-1 mt-2">
+              <SquareArrowRight size={26} color="#000000" strokeWidth={1} />
+              <Text className="text-2xl">{item}</Text>
+            </View>
+          </TouchableOpacity>
         )}
       />
     </View>

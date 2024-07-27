@@ -8,10 +8,10 @@ const Dots = ({ selected }) => {
   return (
     <View
       style={{
-        height: 7,
-        width: 7,
+        height: 8,
+        width: 8,
         marginHorizontal: 3,
-        borderRadius: 100,
+        borderRadius: 2,
         backgroundColor,
       }}
     />
