@@ -1,7 +1,14 @@
 import { View, TextInput, StyleSheet } from "react-native";
 import React, { useState } from "react";
 
-export default function SearchArea() {
+export default function SearchArea({ onSearch }) {
+  const [searchText, setSearchText] = useState("");
+
+  const handleSearch = (text) => {
+    setSearchText(text);
+    onSearch(text);
+  };
+
   return (
     <View className="flex-1 mx-5">
       <TextInput
@@ -11,6 +18,8 @@ export default function SearchArea() {
         autoCorrect={false}
         style={styles.searchBox}
         className="placeholder:text-left"
+        value={searchText}
+        onChangeText={handleSearch}
       />
     </View>
   );
