@@ -21,7 +21,7 @@ export default function App() {
           component={HomeScreen}
           options={{ headerShown: false }}
         />
-        <Stack.Screen name="Topic" component={TopicScreen} />
+        <Stack.Screen name="Kaynak Listesi" component={TopicScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
