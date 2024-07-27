@@ -4,7 +4,7 @@ import Onboarding from "react-native-onboarding-swiper";
 
 const Dots = ({ selected }) => {
   let backgroundColor;
-  backgroundColor = selected ? "#1F3A8A" : "#B4B4B8";
+  backgroundColor = selected ? "#081b53" : "#B4B4B8";
   return (
     <View
       style={{
@@ -19,20 +19,20 @@ const Dots = ({ selected }) => {
 };
 
 const Done = ({ ...props }) => (
-  <TouchableOpacity style={{ marginRight: 12 }} {...props}>
-    <Text style={{ color: "#1F3A8A", fontSize: 16 }}>Başla!</Text>
+  <TouchableOpacity style={{ marginRight: 16 }} {...props}>
+    <Text style={{ color: "#081b53", fontSize: 16 }}>Başla!</Text>
   </TouchableOpacity>
 );
 
 const Next = ({ ...props }) => (
-  <TouchableOpacity style={{ marginRight: 12 }} {...props}>
-    <Text style={{ color: "#1F3A8A", fontSize: 16 }}>Geç</Text>
+  <TouchableOpacity style={{ marginRight: 16 }} {...props}>
+    <Text style={{ color: "#081b53", fontSize: 16 }}>İleri</Text>
   </TouchableOpacity>
 );
 
 const Skip = ({ ...props }) => (
-  <TouchableOpacity style={{ marginLeft: 12 }} {...props}>
-    <Text style={{ color: "#1F3A8A", fontSize: 16 }}>Atla</Text>
+  <TouchableOpacity style={{ marginLeft: 16 }} {...props}>
+    <Text style={{ color: "#081b53", fontSize: 16 }}>Atla</Text>
   </TouchableOpacity>
 );
 
