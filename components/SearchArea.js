@@ -1,5 +1,6 @@
 import { View, TextInput, StyleSheet } from "react-native";
 import React, { useState } from "react";
+import { X } from "lucide-react-native";
 
 export default function SearchArea({ onSearch }) {
   const [searchText, setSearchText] = useState("");
@@ -9,28 +10,52 @@ export default function SearchArea({ onSearch }) {
     onSearch(text);
   };
 
+  const clearSearch = () => {
+    setSearchText("");
+    onSearch("");
+  };
+
   return (
-    <View className="flex-1 mx-5">
+    <View style={styles.container}>
       <TextInput
         placeholder="Kaynak ara..."
         clearButtonMode="always"
         autoCapitalize="none"
         autoCorrect={false}
-        style={styles.searchBox}
-        className="placeholder:text-left"
         value={searchText}
         onChangeText={handleSearch}
+        style={styles.searchArea}
+      />
+
+      <X
+        onPress={clearSearch}
+        size={30}
+        strokeWidth={1.25}
+        color="#ffffff"
+        style={styles.close}
       />
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-  searchBox: {
-    paddingHorizontal: 100,
-    paddingVertical: 1,
-    borderColor: "#B4B4B8",
+  container: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: 5,
+    marginLeft: 13,
+  },
+  searchArea: {
     borderWidth: 1,
-    borderRadius: 4,
+    borderColor: "#C7C8CC",
+    borderRadius: 7,
+    width: 220,
+    padding: 2,
+    paddingLeft: 5,
+  },
+  close: {
+    backgroundColor: "#C7C8CC",
+    borderRadius: 7,
   },
 });

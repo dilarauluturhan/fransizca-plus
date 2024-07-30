@@ -19,20 +19,20 @@ const Dots = ({ selected }) => {
 };
 
 const Done = ({ ...props }) => (
-  <TouchableOpacity style={{ marginRight: 16 }} {...props}>
-    <Text style={{ color: "#081b53", fontSize: 16 }}>Başla!</Text>
+  <TouchableOpacity style={{ marginRight: 18 }} {...props}>
+    <Text style={{ color: "#081b53", fontSize: 18 }}>Başla!</Text>
   </TouchableOpacity>
 );
 
 const Next = ({ ...props }) => (
-  <TouchableOpacity style={{ marginRight: 16 }} {...props}>
-    <Text style={{ color: "#081b53", fontSize: 16 }}>İleri</Text>
+  <TouchableOpacity style={{ marginRight: 18 }} {...props}>
+    <Text style={{ color: "#081b53", fontSize: 18 }}>İleri</Text>
   </TouchableOpacity>
 );
 
 const Skip = ({ ...props }) => (
-  <TouchableOpacity style={{ marginLeft: 16 }} {...props}>
-    <Text style={{ color: "#081b53", fontSize: 16 }}>Atla</Text>
+  <TouchableOpacity style={{ marginLeft: 18 }} {...props}>
+    <Text style={{ color: "#081b53", fontSize: 18 }}>Atla</Text>
   </TouchableOpacity>
 );
 
@@ -56,6 +56,7 @@ export default function OnboardingScreen({ navigation }) {
             />
           ),
           title: "Fransızca+",
+          titleStyles: { fontSize: 32, fontWeight: 300, marginBottom: 55 },
         },
         {
           backgroundColor: "#F3F4F6",
@@ -66,6 +67,7 @@ export default function OnboardingScreen({ navigation }) {
             />
           ),
           title: "Fransızca birçok kaynağa erişim",
+          titleStyles: { fontSize: 32, fontWeight: 300, marginBottom: 55 },
         },
         {
           backgroundColor: "#F3F4F6",
@@ -76,6 +78,7 @@ export default function OnboardingScreen({ navigation }) {
             />
           ),
           title: "Zengin içerik kütüphanesi",
+          titleStyles: { fontSize: 32, fontWeight: 300, marginBottom: 55 },
         },
       ]}
     />

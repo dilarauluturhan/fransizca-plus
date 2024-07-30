@@ -2,9 +2,11 @@ import { View, Text, FlatList, TouchableOpacity, Linking } from "react-native";
 import React, { useEffect, useState } from "react";
 import SearchArea from "../components/SearchArea";
 import jsonData from "../data/data.json";
-import { SquareArrowRight } from "lucide-react-native";
+import { Check, SquareArrowRight, SquareCheck } from "lucide-react-native";
+import { useRoute } from "@react-navigation/native";
 
-export default function TopicScreen({ route }) {
+export default function TopicScreen({ navigation }) {
+  const route = useRoute();
   const { category } = route.params;
   const [links, setLinks] = useState([]);
   const [filteredLinks, setFilteredLinks] = useState([]);
@@ -13,7 +15,8 @@ export default function TopicScreen({ route }) {
     const categoryLinks = jsonData.filter((item) => item.category === category);
     setLinks(categoryLinks);
     setFilteredLinks(categoryLinks);
-  }, [category]);
+    navigation.setOptions({ title: category });
+  }, [category, navigation]);
 
   const handleSearch = (text) => {
     const filtered = links.filter((link) =>
@@ -23,25 +26,36 @@ export default function TopicScreen({ route }) {
   };
 
   return (
-    <View>
-      <View className="flex items-center justify-center mt-2">
-        <Text className="text-2xl text-center text-[#081b53] mb-2">
-          Fransızca+
+    <View className="bg-[#F3F4F6]">
+      <View className="flex items-center justify-center gap-4 mt-3 bg-[#F3F4F6]">
+        <Text className="text-5xl font-extralight text-center text-[#081b53] mb-4">
+          Fransızca
+          <Text className="text-red-700 font-light text-6xl">+</Text>
         </Text>
         <SearchArea onSearch={handleSearch} />
       </View>
-      <FlatList
-        data={filteredLinks}
-        keyExtractor={(item, index) => index.toString()}
-        renderItem={({ item }) => (
-          <TouchableOpacity onPress={() => Linking.openURL(item.link)}>
-            <View className="flex flex-row items-center place-items-center gap-1 mt-2">
-              <SquareArrowRight size={26} color="#000000" strokeWidth={1} />
-              <Text className="text-xl">{item.name}</Text>
-            </View>
-          </TouchableOpacity>
-        )}
-      />
+      {filteredLinks.length === 0 ? (
+        <View className="mt-5">
+          <Text className="text-lg font-normal text-center text-[#081b53] ">
+            Aradığınız sonuç bulunamamıştır...
+          </Text>
+        </View>
+      ) : (
+        <FlatList
+          data={filteredLinks}
+          keyExtractor={(item, index) => index.toString()}
+          renderItem={({ item }) => (
+            <TouchableOpacity onPress={() => Linking.openURL(item.link)}>
+              <View className="flex flex-row items-center place-items-center gap-x-1 w-64 mt-4 ml-12">
+                <SquareCheck size={25} color="#000000" strokeWidth={1} />
+                <Text className="text-xl text-wrap font-normal">
+                  {item.name}
+                </Text>
+              </View>
+            </TouchableOpacity>
+          )}
+        />
+      )}
     </View>
   );
 }

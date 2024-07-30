@@ -21,7 +21,13 @@ export default function App() {
           component={HomeScreen}
           options={{ headerShown: false }}
         />
-        <Stack.Screen name="Kaynak Listesi" component={TopicScreen} />
+        <Stack.Screen
+          name="Kaynak Listesi"
+          component={TopicScreen}
+          options={({ route }) => ({
+            title: route.params.category, // Başlık olarak kategoriyi kullanıyoruz
+          })}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
