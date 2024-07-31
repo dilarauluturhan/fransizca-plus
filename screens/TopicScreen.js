@@ -2,7 +2,12 @@ import { View, Text, FlatList, TouchableOpacity, Linking } from "react-native";
 import React, { useEffect, useState } from "react";
 import SearchArea from "../components/SearchArea";
 import jsonData from "../data/data.json";
-import { Check, SquareArrowRight, SquareCheck } from "lucide-react-native";
+import {
+  Check,
+  SquareArrowRight,
+  SquareCheck,
+  ArrowRight,
+} from "lucide-react-native";
 import { useRoute } from "@react-navigation/native";
 
 export default function TopicScreen({ navigation }) {
@@ -47,8 +52,13 @@ export default function TopicScreen({ navigation }) {
           renderItem={({ item }) => (
             <TouchableOpacity onPress={() => Linking.openURL(item.link)}>
               <View className="flex flex-row items-center place-items-center gap-x-1 w-64 mt-4 ml-12">
-                <SquareCheck size={25} color="#000000" strokeWidth={1} />
-                <Text className="text-xl text-wrap font-normal">
+                <ArrowRight
+                  size={24}
+                  color="#FFFFFF"
+                  className="bg-[#081b53] rounded-md"
+                  strokeWidth={1}
+                />
+                <Text className="text-xl text-wrap font-normal underline text-blue-600">
                   {item.name}
                 </Text>
               </View>
