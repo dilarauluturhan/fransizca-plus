@@ -29,7 +29,7 @@ export default function SearchArea({ onSearch }) {
 
       <X
         onPress={clearSearch}
-        size={30}
+        size={35}
         strokeWidth={1.25}
         color="#ffffff"
         style={styles.close}
@@ -40,22 +40,24 @@ export default function SearchArea({ onSearch }) {
 
 const styles = StyleSheet.create({
   container: {
+    width: "100%",
     flexDirection: "row",
     alignItems: "center",
     justifyContent: "center",
+    paddingVertical: 10,
     gap: 5,
-    marginLeft: 13,
   },
   searchArea: {
+    flex: 1,
     borderWidth: 1,
     borderColor: "#C7C8CC",
     borderRadius: 7,
-    width: 220,
-    padding: 2,
-    paddingLeft: 5,
+    padding: 5,
+    paddingLeft: 10,
   },
   close: {
     backgroundColor: "#C7C8CC",
     borderRadius: 7,
+    padding: 5,
   },
 });

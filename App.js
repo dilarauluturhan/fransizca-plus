@@ -49,6 +49,23 @@ export default function App() {
       </NavigationContainer>
     );
   } else {
-    return <HomeScreen />;
+    return (
+      <NavigationContainer>
+        <Stack.Navigator initialRouteName="HomeScreen">
+          <Stack.Screen
+            name="HomeScreen"
+            component={HomeScreen}
+            options={{ headerShown: false }}
+          />
+          <Stack.Screen
+            name="Kaynak Listesi"
+            component={TopicScreen}
+            options={({ route }) => ({
+              title: route.params.category,
+            })}
+          />
+        </Stack.Navigator>
+      </NavigationContainer>
+    );
   }
 }
