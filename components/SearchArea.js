@@ -45,6 +45,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     paddingVertical: 10,
+    paddingHorizontal: 10,
     gap: 5,
   },
   searchArea: {

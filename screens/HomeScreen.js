@@ -1,9 +1,23 @@
-// screens/HomeScreen.js
-import { View, Text, FlatList, TouchableOpacity } from "react-native";
+import {
+  View,
+  Text,
+  FlatList,
+  TouchableOpacity,
+  StyleSheet,
+} from "react-native";
 import React, { useState, useEffect } from "react";
 import SearchArea from "../components/SearchArea";
 import jsonData from "../data/data.json";
-import { StyleSheet } from "react-native";
+import {
+  useFonts,
+  Nunito_300Light,
+  Nunito_400Regular,
+  Nunito_500Medium,
+  Nunito_600SemiBold,
+  Nunito_700Bold,
+} from "@expo-google-fonts/nunito";
+import * as SplashScreen from "expo-splash-screen";
+import { FontAwesome5 } from "@expo/vector-icons";
 
 export default function HomeScreen({ navigation }) {
   const [categories, setCategories] = useState([]);
@@ -24,11 +38,46 @@ export default function HomeScreen({ navigation }) {
     setFilteredCategories(filtered);
   };
 
+  const [fontsLoaded] = useFonts({
+    Nunito_300Light,
+    Nunito_400Regular,
+    Nunito_500Medium,
+    Nunito_600SemiBold,
+    Nunito_700Bold,
+  });
+
+  useEffect(() => {
+    async function prepare() {
+      try {
+        await SplashScreen.preventAutoHideAsync();
+      } catch (e) {
+        console.warn(e);
+      } finally {
+        await SplashScreen.hideAsync();
+      }
+    }
+
+    prepare();
+  }, []);
+
+  if (!fontsLoaded) {
+    return null;
+  }
+
+  const getIconForCategory = (category) => {
+    const item = jsonData.find((data) => data.category === category);
+    return item ? item.icon : "heart";
+  };
+
   return (
     <View style={styles.container}>
       <View style={styles.header}>
         <Text style={styles.title}>
           Fransızca<Text style={styles.plus}>+</Text>
+        </Text>
+        <Text style={styles.subtitle}>
+          Fransızca öğrenme yolculuğuna hoş geldiniz! Çeşitli kaynakları
+          keşfetmek için aşağıdan bir kategori seçin veya kategori arayın.
         </Text>
         <SearchArea onSearch={handleSearch} />
       </View>
@@ -52,6 +101,11 @@ export default function HomeScreen({ navigation }) {
                     navigation.navigate("Kaynak Listesi", { category: item })
                   }
                 >
+                  <FontAwesome5
+                    name={getIconForCategory(item)}
+                    size={18}
+                    color="white"
+                  />
                   <Text style={styles.buttonText}>{item}</Text>
                 </TouchableOpacity>
               </View>
@@ -77,28 +131,36 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 40,
-    fontWeight: "200",
-    color: "#081b53",
+    fontFamily: "Nunito_400Regular",
+    color: "#000",
     textAlign: "center",
   },
   plus: {
     fontSize: 48,
+    fontFamily: "Nunito_700Bold",
     fontWeight: "400",
     color: "#B91C1C",
+  },
+  subtitle: {
+    fontSize: 15,
+    fontFamily: "Nunito_400Regular",
+    textAlign: "center",
+    marginHorizontal: 4,
+    color: "#000",
   },
   noResults: {
     marginTop: 20,
   },
   noResultsText: {
     fontSize: 18,
-    fontWeight: "normal",
-    color: "#081b53",
+    fontFamily: "Nunito_400Regular",
+    color: "#0007",
     textAlign: "center",
   },
   content: {
     flex: 1,
     width: "100%",
-    marginTop: 20,
+    marginTop: 10,
     marginBottom: 20,
   },
   linkContainer: {
@@ -110,16 +172,20 @@ const styles = StyleSheet.create({
   },
   button: {
     flex: 1,
-    borderColor: "#081b53",
+    borderColor: "#000",
     borderWidth: 1,
     borderRadius: 7,
     padding: 10,
-    backgroundColor: "#081B53",
+    backgroundColor: "#000",
     alignItems: "center",
+    justifyContent: "center",
+    flexDirection: "row",
+    gap: 4,
   },
   buttonText: {
-    fontSize: 18,
-    color: "#FFFFFF",
-    fontWeight: "semibold",
+    fontSize: 19,
+    color: "#FFF",
+    fontFamily: "Nunito_600SemiBold",
+    letterSpacing: 2,
   },
 });

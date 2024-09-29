@@ -3,702 +3,819 @@
     "id": 1,
     "category": "Sözlük",
     "name": "Conjugaison",
-    "link": "https://www.conjugaison.com"
+    "link": "https://www.conjugaison.com",
+    "icon": "book"
   },
   {
     "id": 2,
     "category": "Sözlük",
     "name": "Fransızca Sözlük",
-    "link": "https://www.fransizcasozluk.net"
+    "link": "https://www.fransizcasozluk.net",
+    "icon": "book"
   },
   {
     "id": 3,
     "category": "Sözlük",
     "name": "Forvo",
-    "link": "https://tr.forvo.com"
+    "link": "https://tr.forvo.com",
+    "icon": "book"
   },
   {
     "id": 4,
     "category": "Sözlük",
     "name": "Larousse",
-    "link": "https://www.larousse.com"
+    "link": "https://www.larousse.com",
+    "icon": "book"
   },
   {
     "id": 5,
     "category": "Sözlük",
     "name": "Tureng",
-    "link": "https://tureng.com/tr/fransizca-ingilizce"
+    "link": "https://tureng.com/tr/fransizca-ingilizce",
+    "icon": "book"
   },
   {
     "id": 6,
     "category": "Eğitim",
     "name": "Apprendre TV5 Monde",
-    "link": "https://apprendre.tv5monde.com/fr"
+    "link": "https://apprendre.tv5monde.com/fr",
+    "icon": "school"
   },
   {
     "id": 7,
     "category": "Podcast",
     "name": "France Podcasts",
-    "link": "https://www.francepodcasts.com"
+    "link": "https://www.francepodcasts.com",
+    "icon": "podcast"
   },
   {
     "id": 8,
     "category": "Eğitim",
     "name": "Partajon Delf-Dalf",
-    "link": "https://www.partajondelfdalf.com"
+    "link": "https://www.partajondelfdalf.com",
+    "icon": "school"
   },
   {
     "id": 9,
     "category": "Eğitim",
     "name": "Le Point du FLE",
-    "link": "https://www.lepointdufle.net"
+    "link": "https://www.lepointdufle.net",
+    "icon": "school"
   },
   {
     "id": 10,
     "category": "Eğitim",
     "name": "Podcast Français Facile",
-    "link": "https://www.podcastfrancaisfacile.com"
+    "link": "https://www.podcastfrancaisfacile.com",
+    "icon": "school"
   },
   {
     "id": 11,
     "category": "Haber",
     "name": "TRT Français",
-    "link": "https://www.trtfrancais.com"
+    "link": "https://www.trtfrancais.com",
+    "icon": "newspaper"
   },
   {
     "id": 12,
     "category": "Haber",
     "name": "France TV Vu",
-    "link": "https://www.france.tv/france-5/vu/"
+    "link": "https://www.france.tv/france-5/vu/",
+    "icon": "newspaper"
   },
   {
     "id": 13,
     "category": "Haber",
     "name": "Arte TV Désintox",
-    "link": "https://www.arte.tv/fr/videos/RC-016371/desintox/"
+    "link": "https://www.arte.tv/fr/videos/RC-016371/desintox/",
+    "icon": "newspaper"
   },
   {
     "id": 14,
     "category": "Haber",
     "name": "rfi",
-    "link": "https://www.rfi.fr/fr/"
+    "link": "https://www.rfi.fr/fr/",
+    "icon": "newspaper"
   },
   {
     "id": 15,
     "category": "Haber",
     "name": "france24",
-    "link": "https://www.france24.com/fr/"
+    "link": "https://www.france24.com/fr/",
+    "icon": "newspaper"
   },
   {
     "id": 16,
     "category": "Haber",
     "name": "Le français facile avec rfi",
-    "link": "https://francaisfacile.rfi.fr/fr/"
+    "link": "https://francaisfacile.rfi.fr/fr/",
+    "icon": "newspaper"
   },
   {
     "id": 17,
     "category": "Edebiyat",
     "name": "Les folles danseuses",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/abraham-dreyfus-les-folles-danseuses.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/abraham-dreyfus-les-folles-danseuses.html",
+    "icon": "heart"
   },
   {
     "id": 18,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "TV5 Monde Plus",
-    "link": "https://www.tv5mondeplus.com/fr"
+    "link": "https://www.tv5mondeplus.com/fr",
+    "icon": "film"
   },
   {
     "id": 19,
     "category": "Eğitim",
     "name": "Le French Club",
-    "link": "https://www.youtube.com/@LeFrenchClub"
+    "link": "https://www.youtube.com/@LeFrenchClub",
+    "icon": "school"
   },
   {
     "id": 20,
     "category": "Eğitim",
     "name": "French Pill",
-    "link": "https://www.youtube.com/@FRENCHPILL"
+    "link": "https://www.youtube.com/@FRENCHPILL",
+    "icon": "school"
   },
   {
     "id": 21,
     "category": "Youtube",
     "name": "Adam Bros",
-    "link": "https://www.youtube.com/@AdamBros"
+    "link": "https://www.youtube.com/@AdamBros",
+    "icon": "youtube"
   },
   {
     "id": 22,
     "category": "Eğitim",
     "name": "Alparslan Demir",
-    "link": "https://www.youtube.com/@alparslandemirfr"
+    "link": "https://www.youtube.com/@alparslandemirfr",
+    "icon": "school"
   },
   {
     "id": 23,
     "category": "Eğitim",
     "name": "Aykut Yavuz",
-    "link": "https://www.youtube.com/@AykutYavuzFransizcaDersleri"
+    "link": "https://www.youtube.com/@AykutYavuzFransizcaDersleri",
+    "icon": "school"
   },
   {
     "id": 24,
     "category": "Youtube",
     "name": "Canal+",
-    "link": "https://www.youtube.com/@Canalplus"
+    "link": "https://www.youtube.com/@Canalplus",
+    "icon": "youtube"
   },
   {
     "id": 25,
     "category": "Youtube",
     "name": "CCube Academy",
-    "link": "https://www.youtube.com/@CCubeAcademy"
+    "link": "https://www.youtube.com/@CCubeAcademy",
+    "icon": "youtube"
   },
   {
     "id": 26,
     "category": "Youtube",
     "name": "Easy French",
-    "link": "https://www.youtube.com/@EasyFrench"
+    "link": "https://www.youtube.com/@EasyFrench",
+    "icon": "youtube"
   },
   {
     "id": 27,
     "category": "Youtube",
     "name": "francetv slash / talents",
-    "link": "https://www.youtube.com/@francetvslashtalents"
+    "link": "https://www.youtube.com/@francetvslashtalents",
+    "icon": "youtube"
   },
   {
     "id": 28,
     "category": "Eğitim",
     "name": "Fransızca Dersler",
-    "link": "https://www.youtube.com/@FransizcaDersler"
+    "link": "https://www.youtube.com/@FransizcaDersler",
+    "icon": "school"
   },
   {
     "id": 29,
     "category": "Youtube",
     "name": "Français Authentique",
-    "link": "https://www.youtube.com/@francaisauthentique"
+    "link": "https://www.youtube.com/@francaisauthentique",
+    "icon": "youtube"
   },
   {
     "id": 30,
     "category": "Eğitim",
     "name": "Français avec Nelly",
-    "link": "https://www.youtube.com/@francaisavecnelly"
+    "link": "https://www.youtube.com/@francaisavecnelly",
+    "icon": "school"
   },
   {
     "id": 31,
     "category": "Eğitim",
     "name": "Français avec Fred",
-    "link": "https://www.youtube.com/@FrancaisAvecFred"
+    "link": "https://www.youtube.com/@FrancaisAvecFred",
+    "icon": "school"
   },
   {
     "id": 32,
     "category": "Eğitim",
     "name": "Français avec Pierre",
-    "link": "https://www.youtube.com/@FrancaisavecPierre"
+    "link": "https://www.youtube.com/@FrancaisavecPierre",
+    "icon": "school"
   },
   {
     "id": 33,
     "category": "Eğitim",
     "name": "French School TV",
-    "link": "https://www.youtube.com/@FrenchSchoolTV"
+    "link": "https://www.youtube.com/@FrenchSchoolTV",
+    "icon": "school"
   },
   {
     "id": 34,
     "category": "Youtube",
     "name": "French Talks",
-    "link": "https://www.youtube.com/@FrenchTalks"
+    "link": "https://www.youtube.com/@FrenchTalks",
+    "icon": "youtube"
   },
   {
     "id": 35,
     "category": "Youtube",
     "name": "HugoDécrypte - Actus du jour",
-    "link": "https://www.youtube.com/@HugoDecrypte"
+    "link": "https://www.youtube.com/@HugoDecrypte",
+    "icon": "youtube"
   },
   {
     "id": 36,
     "category": "Youtube",
     "name": "INA Société",
-    "link": "https://www.youtube.com/@Inasociete"
+    "link": "https://www.youtube.com/@Inasociete",
+    "icon": "youtube"
   },
   {
     "id": 37,
     "category": "Youtube",
     "name": "Info ou Mytho ?",
-    "link": "https://www.youtube.com/@InfoouMytho"
+    "link": "https://www.youtube.com/@InfoouMytho",
+    "icon": "youtube"
   },
   {
     "id": 38,
     "category": "Eğitim",
     "name": "Learn French with Alexa",
-    "link": "https://www.youtube.com/@learnfrenchwithalexa"
+    "link": "https://www.youtube.com/@learnfrenchwithalexa",
+    "icon": "school"
   },
   {
     "id": 39,
     "category": "Youtube",
     "name": "Parlez-vous FRENCH : Cours de français",
-    "link": "https://www.youtube.com/@ParlezvousFRENCH"
+    "link": "https://www.youtube.com/@ParlezvousFRENCH",
+    "icon": "youtube"
   },
   {
     "id": 40,
     "category": "Youtube",
     "name": "Paroles Lyrics France",
-    "link": "https://www.youtube.com/@ParolesLyricsFrance"
+    "link": "https://www.youtube.com/@ParolesLyricsFrance",
+    "icon": "youtube"
   },
   {
     "id": 41,
     "category": "Youtube",
     "name": "Piece of French",
-    "link": "https://www.youtube.com/@pieceoffrench"
+    "link": "https://www.youtube.com/@pieceoffrench",
+    "icon": "youtube"
   },
   {
     "id": 42,
     "category": "Youtube",
     "name": "Podcast Français Facile",
-    "link": "https://www.youtube.com/@podcast_francais_facile"
+    "link": "https://www.youtube.com/@podcast_francais_facile",
+    "icon": "youtube"
   },
   {
     "id": 43,
     "category": "Eğitim",
     "name": "Useful French with Chris",
-    "link": "https://www.youtube.com/@UsefulFrench"
+    "link": "https://www.youtube.com/@UsefulFrench",
+    "icon": "school"
   },
   {
     "id": 44,
     "category": "Youtube",
     "name": "TRT Français",
-    "link": "https://www.youtube.com/@trtfrancais"
+    "link": "https://www.youtube.com/@trtfrancais",
+    "icon": "youtube"
   },
   {
     "id": 45,
     "category": "Podcast",
     "name": "À bientôt de te revoir",
-    "link": "https://open.spotify.com/show/52EqJyUcpduoCE6Cm8blBw?si=dac186c800a048d3"
+    "link": "https://open.spotify.com/show/52EqJyUcpduoCE6Cm8blBw?si=dac186c800a048d3",
+    "icon": "podcast"
   },
   {
     "id": 46,
     "category": "Podcast",
     "name": "Binge Audio",
-    "link": "https://www.binge.audio"
+    "link": "https://www.binge.audio",
+    "icon": "podcast"
   },
   {
     "id": 47,
     "category": "Podcast",
     "name": "Real Life French",
-    "link": "https://open.spotify.com/show/400GRC4Cg6epiVJj84PIu5?si=e4baf25ea8184a09"
+    "link": "https://open.spotify.com/show/400GRC4Cg6epiVJj84PIu5?si=e4baf25ea8184a09",
+    "icon": "podcast"
   },
   {
     "id": 48,
     "category": "Podcast",
     "name": "Learn French with Alexa",
-    "link": "https://open.spotify.com/show/1xmmu8rOeaCBWO2vVlAMiH?si=6262fa3cc81140e3"
+    "link": "https://open.spotify.com/show/1xmmu8rOeaCBWO2vVlAMiH?si=6262fa3cc81140e3",
+    "icon": "podcast"
   },
   {
     "id": 49,
     "category": "Podcast",
     "name": "Learn French with daily podcasts",
-    "link": "https://open.spotify.com/show/3fTcy5v0wlF97bg8DtXmMd?si=87595782e6b54cf0"
+    "link": "https://open.spotify.com/show/3fTcy5v0wlF97bg8DtXmMd?si=87595782e6b54cf0",
+    "icon": "podcast"
   },
   {
     "id": 50,
     "category": "Podcast",
     "name": "Easy French",
-    "link": "https://open.spotify.com/show/6ymiUbRF2qUuQGqpNsGjFC?si=2bb32d4fbceb4ea3"
+    "link": "https://open.spotify.com/show/6ymiUbRF2qUuQGqpNsGjFC?si=2bb32d4fbceb4ea3",
+    "icon": "podcast"
   },
   {
     "id": 51,
     "category": "Podcast",
     "name": "Le français avec Fluidité",
-    "link": "https://open.spotify.com/show/0Uqx5gXwuF2lNhxOQvGzow?si=c54515e920904fb1"
+    "link": "https://open.spotify.com/show/0Uqx5gXwuF2lNhxOQvGzow?si=c54515e920904fb1",
+    "icon": "podcast"
   },
   {
     "id": 52,
     "category": "Podcast",
     "name": "Journal en français facile",
-    "link": "https://open.spotify.com/show/0AVkxaaQWUC6QAn38x5OmR?si=e7825ca57de34904"
+    "link": "https://open.spotify.com/show/0AVkxaaQWUC6QAn38x5OmR?si=e7825ca57de34904",
+    "icon": "podcast"
   },
   {
     "id": 53,
     "category": "Podcast",
     "name": "French for Beginners",
-    "link": "https://open.spotify.com/show/1WeNLllQ5zKndAfHppym4F?si=0cd095fad2fc4db8"
+    "link": "https://open.spotify.com/show/1WeNLllQ5zKndAfHppym4F?si=0cd095fad2fc4db8",
+    "icon": "podcast"
   },
   {
     "id": 54,
     "category": "Podcast",
     "name": "Duolingo French Podcast",
-    "link": "https://open.spotify.com/show/2Mu5dTlsG1vRE25twu1P2l?si=540c1916011d4754"
+    "link": "https://open.spotify.com/show/2Mu5dTlsG1vRE25twu1P2l?si=540c1916011d4754",
+    "icon": "podcast"
   },
   {
     "id": 55,
     "category": "Podcast",
     "name": "Café Français",
-    "link": "https://open.spotify.com/show/1uY8JCkkoBDGn8Yl8M4B9r?si=0f8799a90d2c423a"
+    "link": "https://open.spotify.com/show/1uY8JCkkoBDGn8Yl8M4B9r?si=0f8799a90d2c423a",
+    "icon": "podcast"
   },
   {
     "id": 56,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Lupin",
-    "link": "https://www.imdb.com/title/tt2531336/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt2531336/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 57,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Amélie",
-    "link": "https://www.imdb.com/title/tt0211915/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt0211915/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 58,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Tendances A1",
-    "link": "https://youtube.com/playlist?list=PLIakcO04FIpqPOPJ9ZRL161BhOgOhWzWE&si=mTW6bdCfkFqhv-px"
+    "link": "https://youtube.com/playlist?list=PLIakcO04FIpqPOPJ9ZRL161BhOgOhWzWE&si=mTW6bdCfkFqhv-px",
+    "icon": "film"
   },
   {
     "id": 59,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Tendances A2",
-    "link": "https://youtube.com/playlist?list=PLIakcO04FIpqitnNy8UimyHkZaGhI-WIc&si=Lu8TyQQ0dvalWnEG"
+    "link": "https://youtube.com/playlist?list=PLIakcO04FIpqitnNy8UimyHkZaGhI-WIc&si=Lu8TyQQ0dvalWnEG",
+    "icon": "film"
   },
   {
     "id": 60,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Extra en français episodes",
-    "link": "https://youtube.com/playlist?list=PLhAxKCm7GPvi1fmbLUbhYhQcLGTZ2Fqwq&si=IxhyDab_K0EOiD8W"
+    "link": "https://youtube.com/playlist?list=PLhAxKCm7GPvi1fmbLUbhYhQcLGTZ2Fqwq&si=IxhyDab_K0EOiD8W",
+    "icon": "film"
   },
   {
     "id": 61,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Le Fille Sur Le Pont",
-    "link": "https://www.imdb.com/title/tt0144201/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt0144201/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 62,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Café de Flore",
-    "link": "https://www.imdb.com/title/tt1550312/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt1550312/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 63,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Petite Maman",
-    "link": "https://www.imdb.com/title/tt13204490/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt13204490/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 64,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Les seigneurs de la fraude",
-    "link": "https://www.netflix.com/tr/title/81092697"
+    "link": "https://www.netflix.com/tr/title/81092697",
+    "icon": "film"
   },
   {
     "id": 65,
     "category": "Sözlük",
     "name": "Collins",
-    "link": "https://www.collinsdictionary.com/dictionary/english-french"
+    "link": "https://www.collinsdictionary.com/dictionary/english-french",
+    "icon": "book"
   },
   {
     "id": 66,
     "category": "Sözlük",
     "name": "Word Reference",
-    "link": "https://www.wordreference.com/enfr/"
+    "link": "https://www.wordreference.com/enfr/",
+    "icon": "book"
   },
   {
     "id": 67,
     "category": "Sözlük",
     "name": "Linguee",
-    "link": "https://www.linguee.com/english-french"
+    "link": "https://www.linguee.com/english-french",
+    "icon": "book"
   },
   {
     "id": 68,
     "category": "Sözlük",
     "name": "Reverso",
-    "link": "https://www.reverso.net/text-translation"
+    "link": "https://www.reverso.net/text-translation",
+    "icon": "book"
   },
   {
     "id": 69,
     "category": "Sözlük",
     "name": "FrenchPod101",
-    "link": "https://www.frenchpod101.com/french-dictionary/"
+    "link": "https://www.frenchpod101.com/french-dictionary/",
+    "icon": "book"
   },
   {
     "id": 70,
     "category": "Sözlük",
     "name": "bab.la",
-    "link": "https://en.bab.la/dictionary/english-french/"
+    "link": "https://en.bab.la/dictionary/english-french/",
+    "icon": "book"
   },
   {
     "id": 71,
     "category": "Eğitim",
     "name": "Duolingo",
-    "link": "https://www.duolingo.com/course/fr/en/Fransızca-ogren"
+    "link": "https://www.duolingo.com/course/fr/en/Fransızca-ogren",
+    "icon": "school"
   },
   {
     "id": 72,
     "category": "Eğitim",
     "name": "Babbel",
-    "link": "https://www.babbel.com/learn-french"
+    "link": "https://www.babbel.com/learn-french",
+    "icon": "school"
   },
   {
     "id": 73,
     "category": "Eğitim",
     "name": "The French Experiment",
-    "link": "https://www.thefrenchexperiment.com"
+    "link": "https://www.thefrenchexperiment.com",
+    "icon": "school"
   },
   {
     "id": 74,
     "category": "Eğitim",
     "name": "BBC",
-    "link": "https://www.bbc.co.uk/languages/french/"
+    "link": "https://www.bbc.co.uk/languages/french/",
+    "icon": "school"
   },
   {
     "id": 75,
     "category": "Edebiyat",
     "name": "Le Volcan d’or",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/jules-verne-le-volcan-dor.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/jules-verne-le-volcan-dor.html",
+    "icon": "heart"
   },
   {
     "id": 76,
     "category": "Edebiyat",
     "name": "Il est élu",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zo-daxa-il-est-elu.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zo-daxa-il-est-elu.html",
+    "icon": "heart"
   },
   {
     "id": 77,
     "category": "Edebiyat",
     "name": "Capitale de la Douleur",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/paul-eluard-capitale-de-la-douleur-selection.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/paul-eluard-capitale-de-la-douleur-selection.html",
+    "icon": "heart"
   },
   {
     "id": 78,
     "category": "Edebiyat",
     "name": "Le Dit de l’Herberie",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/rutebeuf-le-dit-de-lherberie.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/rutebeuf-le-dit-de-lherberie.html",
+    "icon": "heart"
   },
   {
     "id": 79,
     "category": "Edebiyat",
     "name": "L’horreur des altitudes",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/arthur-conan-doyle-lhorreur-des-altitudes.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/arthur-conan-doyle-lhorreur-des-altitudes.html",
+    "icon": "heart"
   },
   {
     "id": 80,
     "category": "Edebiyat",
     "name": "Par le fond",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/pauline-pucciano-auteur-par-le-fond-2.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/pauline-pucciano-auteur-par-le-fond-2.html",
+    "icon": "heart"
   },
   {
     "id": 81,
     "category": "Edebiyat",
     "name": "M. Barbey d’Aurevilly",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/olympe-audouard-m-barbey-daurevilly-reponse-a-ses-requisitoires-contre-les-bas-bleus.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/olympe-audouard-m-barbey-daurevilly-reponse-a-ses-requisitoires-contre-les-bas-bleus.html",
+    "icon": "heart"
   },
   {
     "id": 82,
     "category": "Edebiyat",
     "name": "Au jardin du Luxembourg",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/francois-coppee-au-jardin-du-luxembourg-poeme.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/francois-coppee-au-jardin-du-luxembourg-poeme.html",
+    "icon": "heart"
   },
   {
     "id": 83,
     "category": "Edebiyat",
     "name": "Ainsi parlait Zarathoustra",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/nietzsche-friedrich-ainsi-parlait-zarathoustra-livre-1.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/nietzsche-friedrich-ainsi-parlait-zarathoustra-livre-1.html",
+    "icon": "heart"
   },
   {
     "id": 84,
     "category": "Edebiyat",
     "name": "Le Chien des Baskerville",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/conan-doyle-arthur-le-chien-des-baskerville.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/conan-doyle-arthur-le-chien-des-baskerville.html",
+    "icon": "heart"
   },
   {
     "id": 85,
     "category": "Edebiyat",
     "name": "Thérèse Raquin",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-therese-raquin.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-therese-raquin.html",
+    "icon": "heart"
   },
   {
     "id": 86,
     "category": "Edebiyat",
     "name": "Naïs Micoulin",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-nais-micoulin.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-nais-micoulin.html",
+    "icon": "heart"
   },
   {
     "id": 87,
     "category": "Edebiyat",
     "name": "Une page d’amour",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-une-page-damour.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-une-page-damour.html",
+    "icon": "heart"
   },
   {
     "id": 88,
     "category": "Edebiyat",
     "name": "Henri IV",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/alexandre-dumas-henri-iv.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/alexandre-dumas-henri-iv.html",
+    "icon": "heart"
   },
   {
     "id": 89,
     "category": "Edebiyat",
     "name": "Le Vicomte de Bragelonne",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/dumas-alexandre-le-vicomte-de-bragelonne-deuxieme-partie.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/dumas-alexandre-le-vicomte-de-bragelonne-deuxieme-partie.html",
+    "icon": "heart"
   },
   {
     "id": 90,
     "category": "Edebiyat",
     "name": "Le Chat, la belette et le petit lapin",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/jean-de-la-fontaine-le-chat-la-belette-et-le-petit-lapin.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/jean-de-la-fontaine-le-chat-la-belette-et-le-petit-lapin.html",
+    "icon": "heart"
   },
   {
     "id": 91,
     "category": "Edebiyat",
     "name": "Le Témoignage de Randolph Carter",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/howard-phillips-lovecraft-le-temoignage-de-randolph-carter.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/howard-phillips-lovecraft-le-temoignage-de-randolph-carter.html",
+    "icon": "heart"
   },
   {
     "id": 92,
     "category": "Edebiyat",
     "name": "La Reine Ysabeau",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/auguste-de-villiers-de-lisle-adam-la-reine-ysabeau-2.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/auguste-de-villiers-de-lisle-adam-la-reine-ysabeau-2.html",
+    "icon": "heart"
   },
   {
     "id": 93,
     "category": "Edebiyat",
     "name": "Du côté de chez Swann",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/marcel-proust-du-cote-de-chez-swann.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/marcel-proust-du-cote-de-chez-swann.html",
+    "icon": "heart"
   },
   {
     "id": 94,
     "category": "Edebiyat",
     "name": "Trois Morts",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/leon-tolstoi-trois-morts.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/leon-tolstoi-trois-morts.html",
+    "icon": "heart"
   },
   {
     "id": 95,
     "category": "Edebiyat",
     "name": "Le Nuage pourpre",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/matthew-phipps-shiel-le-nuage-pourpre.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/matthew-phipps-shiel-le-nuage-pourpre.html",
+    "icon": "heart"
   },
   {
     "id": 96,
     "category": "Edebiyat",
     "name": "La Baleine et son gosier",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/rudyard-kipling-la-baleine-et-son-gosier.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/rudyard-kipling-la-baleine-et-son-gosier.html",
+    "icon": "heart"
   },
   {
     "id": 97,
     "category": "Edebiyat",
     "name": "Le Retour d’Arsène Lupin",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/francis-de-croisset-maurice-leblanc-le-retour-darsene-lupin.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/francis-de-croisset-maurice-leblanc-le-retour-darsene-lupin.html",
+    "icon": "heart"
   },
   {
     "id": 98,
     "category": "Edebiyat",
     "name": "Notre-Dame de Paris",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/victor-hugo-notre-dame-de-paris.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/victor-hugo-notre-dame-de-paris.html",
+    "icon": "heart"
   },
   {
     "id": 99,
     "category": "Edebiyat",
     "name": "Madame Bovary",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/gustave-flaubert-madame-bovary.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/gustave-flaubert-madame-bovary.html",
+    "icon": "heart"
   },
   {
     "id": 100,
     "category": "Edebiyat",
     "name": "L’Argent",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-largent.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-largent.html",
+    "icon": "heart"
   },
   {
     "id": 101,
     "category": "Edebiyat",
     "name": "Rose",
-    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/maupassant-guy-rose.html"
+    "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/maupassant-guy-rose.html",
+    "icon": "heart"
   },
   {
     "id": 102,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "La Mante",
-    "link": "https://www.imdb.com/title/tt6467482/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt6467482/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 103,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Une mère parfaite",
-    "link": "https://www.imdb.com/title/tt15341198/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt15341198/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 104,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Braqueurs",
-    "link": "https://www.imdb.com/title/tt6833910/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt6833910/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 105,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "M’entends-tu?",
-    "link": "https://www.imdb.com/title/tt9747016/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt9747016/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 106,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Dix pour cent",
-    "link": "https://www.imdb.com/title/tt4277922/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt4277922/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 107,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "On va s'aimer un peu, beaucoup",
-    "link": "https://www.imdb.com/title/tt6730152/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt6730152/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 108,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Plan cœur",
-    "link": "https://www.imdb.com/title/tt9170638/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt9170638/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 109,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "“La forêt",
-    "link": "https://www.imdb.com/title/tt6560040/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt6560040/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 110,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Un village français",
-    "link": "https://www.imdb.com/title/tt1288631/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt1288631/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 111,
-    "category": "Dizi/Film",
+    "category": "Film",
     "name": "Les revenants",
-    "link": "https://www.imdb.com/title/tt2521668/?ref_=ext_shr_lnk"
+    "link": "https://www.imdb.com/title/tt2521668/?ref_=ext_shr_lnk",
+    "icon": "film"
   },
   {
     "id": 112,
     "category": "Haber",
     "name": "France info",
-    "link": "https://www.francetvinfo.fr"
+    "link": "https://www.francetvinfo.fr",
+    "icon": "newspaper"
   },
   {
     "id": 113,
     "category": "Haber",
     "name": "Le Monde",
-    "link": "https://www.lemonde.fr"
+    "link": "https://www.lemonde.fr",
+    "icon": "newspaper"
   },
   {
     "id": 114,
     "category": "Eğitim",
     "name": "Le français facile avec rfi",
-    "link": "https://francaisfacile.rfi.fr/fr/"
+    "link": "https://francaisfacile.rfi.fr/fr/",
+    "icon": "school"
   },
   {
     "id": 115,
     "category": "Eğitim",
     "name": "Le Web Pédagogique",
-    "link": "https://lewebpedagogique.com"
+    "link": "https://lewebpedagogique.com",
+    "icon": "school"
   },
   {
     "id": 116,
     "category": "Eğitim",
     "name": "Bonjour de France",
-    "link": "https://www.bonjourdefrance.com"
+    "link": "https://www.bonjourdefrance.com",
+    "icon": "school"
   },
   {
     "id": 117,
     "category": "Eğitim",
     "name": "École Polytechnique",
-    "link": "https://www.coursera.org/ep"
+    "link": "https://www.coursera.org/ep",
+    "icon": "school"
   }
 ]
