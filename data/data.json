@@ -4,217 +4,248 @@
     "category": "Sözlük",
     "name": "Conjugaison",
     "link": "https://www.conjugaison.com",
-    "icon": "book"
+    "icon": "book",
+    "desc": "Fransızca fiillerin çekimlerini öğrenmek için kapsamlı bir sözlüktür."
   },
   {
     "id": 2,
     "category": "Sözlük",
     "name": "Fransızca Sözlük",
     "link": "https://www.fransizcasozluk.net",
-    "icon": "book"
+    "icon": "book",
+    "desc": "Fransızca-Türkçe ve Türkçe-Fransızca çeviri yapabileceğiniz çevrimiçi bir sözlüktür."
   },
   {
     "id": 3,
     "category": "Sözlük",
     "name": "Forvo",
     "link": "https://tr.forvo.com",
-    "icon": "book"
+    "icon": "book",
+    "desc": "Dünya genelinde kelimelerin anadili konuşanlar tarafından nasıl telaffuz edildiğini dinleyebileceğiniz bir çevrimiçi telaffuz rehberidir."
   },
   {
     "id": 4,
     "category": "Sözlük",
     "name": "Larousse",
     "link": "https://www.larousse.com",
-    "icon": "book"
+    "icon": "book",
+    "desc": "Fransızca dilinde sözlük, ansiklopedi ve çeşitli dil kaynaklarına erişim sağlayan çevrimiçi bir bilgi platformudur."
   },
   {
     "id": 5,
     "category": "Sözlük",
     "name": "Tureng",
     "link": "https://tureng.com/tr/fransizca-ingilizce",
-    "icon": "book"
+    "icon": "book",
+    "desc": "Fransızca ve İngilizce arasında kapsamlı çeviri ve dil desteği sunan çevrimiçi bir sözlük ve dil platformudur."
   },
   {
     "id": 6,
     "category": "Eğitim",
     "name": "Apprendre TV5 Monde",
     "link": "https://apprendre.tv5monde.com/fr",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca öğrenenler için dil becerilerini geliştirmeye yönelik interaktif videolar ve alıştırmalar sunan bir çevrimiçi eğitim platformudur."
   },
   {
     "id": 7,
     "category": "Podcast",
     "name": "France Podcasts",
     "link": "https://www.francepodcasts.com",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Fransızca dilinde çeşitli kategorilerde podcastlar sunan bir çevrimiçi platformdur."
   },
   {
     "id": 8,
     "category": "Eğitim",
     "name": "Partajon Delf-Dalf",
     "link": "https://www.partajondelfdalf.com",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca dil sınavları olan DELF ve DALF'ye hazırlık materyalleri ve rehberlik sunan bir platformdur."
   },
   {
     "id": 9,
     "category": "Eğitim",
     "name": "Le Point du FLE",
     "link": "https://www.lepointdufle.net",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca öğrenenler için geniş kapsamlı ders materyalleri ve alıştırmalar sunan çevrimiçi eğitim kaynağıdır."
   },
   {
     "id": 10,
     "category": "Eğitim",
     "name": "Podcast Français Facile",
     "link": "https://www.podcastfrancaisfacile.com",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca öğrenenler için seviyeye uygun dersler ve sesli materyaller sunan bir dil öğrenme platformudur."
   },
   {
     "id": 11,
     "category": "Haber",
     "name": "TRT Français",
     "link": "https://www.trtfrancais.com",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "desc": "Fransızca dilinde dünya ve Türkiye gündeminden haberler sunan bir haber platformudur."
   },
   {
     "id": 12,
     "category": "Haber",
     "name": "France TV Vu",
     "link": "https://www.france.tv/france-5/vu/",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "desc": "France.tv'nin Vu bölümü, güncel olayları ve medyadaki önemli anları mizahi bir dille derleyen kısa video montajlarını izleyebileceğiniz bir program sunmaktadır."
   },
   {
     "id": 13,
     "category": "Haber",
     "name": "Arte TV Désintox",
     "link": "https://www.arte.tv/fr/videos/RC-016371/desintox/",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "desc": "Arte'nin Désintox bölümü, medya ve internetteki yanlış bilgileri araştırarak doğrulayan ve analiz eden bir programdır."
   },
   {
     "id": 14,
     "category": "Haber",
     "name": "rfi",
     "link": "https://www.rfi.fr/fr/",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "desc": "RFI (Radio France Internationale), dünya genelinde Fransızca dilinde uluslararası haberler, analizler ve programlar sunan bir radyo ve haber platformudur."
   },
   {
     "id": 15,
     "category": "Haber",
     "name": "france24",
     "link": "https://www.france24.com/fr/",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "desc": "Fransızca dilinde dünya çapında güncel haberler, analizler ve canlı yayınlar sunan uluslararası bir haber kanalıdır."
   },
   {
     "id": 16,
     "category": "Haber",
     "name": "Le français facile avec rfi",
     "link": "https://francaisfacile.rfi.fr/fr/",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "desc": "Fransızca öğrenenler için haber içerikleriyle dil becerilerini geliştiren dersler ve alıştırmalar sunan bir platformdur."
   },
   {
     "id": 17,
     "category": "Edebiyat",
-    "name": "Les folles danseuses",
+    "name": "Les Folles Danseuses",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/abraham-dreyfus-les-folles-danseuses.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Les Folles Danseuses adlı hikaye."
   },
   {
     "id": 18,
     "category": "Film",
     "name": "TV5 Monde Plus",
     "link": "https://www.tv5mondeplus.com/fr",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Dünyanın dört bir yanından Fransızca dilinde dizi, film ve belgesellerin izlenebileceği bir çevrimiçi yayın platformudur."
   },
   {
     "id": 19,
-    "category": "Eğitim",
+    "category": "YouTube",
     "name": "Le French Club",
     "link": "https://www.youtube.com/@LeFrenchClub",
-    "icon": "school"
+    "icon": "youtube",
+    "desc": "Fransızca öğrenenler için dil bilgisi, kelime dağarcığı ve kültürel içerikler sunan bir YouTube eğitim kanalıdır."
   },
   {
     "id": 20,
     "category": "Eğitim",
     "name": "French Pill",
     "link": "https://www.youtube.com/@FRENCHPILL",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca öğrenenler için günlük ifadeler, dil bilgisi ve telaffuz üzerine pratik dersler sunan bir YouTube kanalıdır."
   },
   {
     "id": 21,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Adam Bros",
     "link": "https://www.youtube.com/@AdamBros",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Eğlenceli içeriklerle Fransızca dil becerilerini geliştirmeye yönelik günlük konuşma pratiği sunan bir YouTube kanalıdır."
   },
   {
     "id": 22,
     "category": "Eğitim",
     "name": "Alparslan Demir",
     "link": "https://www.youtube.com/@alparslandemirfr",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca dil öğrenimi üzerine çeşitli dersler, dil bilgisi ve pratik ipuçları sunan bir YouTube eğitim kanalıdır."
   },
   {
     "id": 23,
     "category": "Eğitim",
     "name": "Aykut Yavuz",
-    "link": "https://www.youtube.com/@AykutYavuzFransizcaDersleri",
-    "icon": "school"
+    "link": "https://www.youtube.com/c/AykutYavuzFransızcaDersleri",
+    "icon": "school",
+    "desc": "Fransızca dil bilgisi, kelime dağarcığı ve konuşma pratiği üzerine dersler sunan bir YouTube eğitim kanalıdır."
   },
   {
     "id": 24,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Canal+",
     "link": "https://www.youtube.com/@Canalplus",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransızca dilinde dizi, film, belgesel ve eğlence programları sunan popüler bir medya platformunun resmi kanalıdır."
   },
   {
     "id": 25,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "CCube Academy",
     "link": "https://www.youtube.com/@CCubeAcademy",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransızca matematik, fizik ve mühendislik dersleri sunan bir YouTube eğitim kanalıdır."
   },
   {
     "id": 26,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Easy French",
     "link": "https://www.youtube.com/@EasyFrench",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Sokak röportajları ve gerçek hayattan konuşmalarla Fransızca öğrenmeyi kolaylaştıran bir YouTube dil eğitim kanalıdır."
   },
   {
     "id": 27,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "francetv slash / talents",
     "link": "https://www.youtube.com/@francetvslashtalents",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Genç sanatçıların ve içerik üreticilerinin yaratıcı projelerini sunan bir YouTube kanalıdır."
   },
   {
     "id": 28,
     "category": "Eğitim",
     "name": "Fransızca Dersler",
-    "link": "https://www.youtube.com/@FransizcaDersler",
-    "icon": "school"
+    "link": "https://www.youtube.com/c/FransızcaDersler",
+    "icon": "school",
+    "desc": "Fransızca dil bilgisi ve konuşma pratiği üzerine dersler sunan bir YouTube eğitim kanalıdır."
   },
   {
     "id": 29,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Français Authentique",
     "link": "https://www.youtube.com/@francaisauthentique",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransızca'yı doğal ve akıcı bir şekilde öğrenmek isteyenler için pratik dil dersleri sunan bir YouTube kanalıdır."
   },
   {
     "id": 30,
     "category": "Eğitim",
     "name": "Français avec Nelly",
     "link": "https://www.youtube.com/@francaisavecnelly",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca dil bilgisi, kelime dağarcığı ve kültürel ipuçları sunan bir YouTube eğitim kanalıdır."
   },
   {
     "id": 31,
     "category": "Eğitim",
     "name": "Français avec Fred",
-    "link": "https://www.youtube.com/@FrancaisAvecFred",
-    "icon": "school"
+    "link": "https://www.youtube.com/c/FrançaisavecFred",
+    "icon": "school",
+    "desc": "Fransızca'yı pratik ve eğlenceli bir şekilde öğrenmek isteyenler için dil bilgisi ve konuşma dersleri sunan bir eğitim kanalıdır."
   },
   {
     "id": 32,
@@ -228,14 +259,16 @@
     "category": "Eğitim",
     "name": "French School TV",
     "link": "https://www.youtube.com/@FrenchSchoolTV",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca öğrenenler için dil bilgisi, kelime dağarcığı ve günlük konuşma pratiği sunan bir eğitim kanalıdır."
   },
   {
     "id": 34,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "French Talks",
     "link": "https://www.youtube.com/@FrenchTalks",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransızca öğrenenler için dil becerilerini geliştiren sohbetler ve pratik ipuçları sunan bir YouTube kanalıdır."
   },
   {
     "id": 35,

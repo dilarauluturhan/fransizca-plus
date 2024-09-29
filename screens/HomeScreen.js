@@ -138,7 +138,6 @@ const styles = StyleSheet.create({
   plus: {
     fontSize: 48,
     fontFamily: "Nunito_700Bold",
-    fontWeight: "400",
     color: "#B91C1C",
   },
   subtitle: {
@@ -160,13 +159,13 @@ const styles = StyleSheet.create({
   content: {
     flex: 1,
     width: "100%",
-    marginTop: 10,
-    marginBottom: 20,
+    marginTop: 5,
+    marginBottom: 5,
   },
   linkContainer: {
     flexDirection: "row",
     alignItems: "center",
-    marginBottom: 10,
+    marginBottom: 5,
     padding: 10,
     borderRadius: 10,
   },

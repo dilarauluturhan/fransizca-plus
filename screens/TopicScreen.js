@@ -9,8 +9,17 @@ import {
 import React, { useEffect, useState } from "react";
 import SearchArea from "../components/SearchArea";
 import jsonData from "../data/data.json";
-import { ArrowRight } from "lucide-react-native";
+import FontAwesome5 from "@expo/vector-icons/FontAwesome5";
 import { useRoute } from "@react-navigation/native";
+import {
+  useFonts,
+  Nunito_300Light,
+  Nunito_400Regular,
+  Nunito_500Medium,
+  Nunito_600SemiBold,
+  Nunito_700Bold,
+} from "@expo-google-fonts/nunito";
+import * as SplashScreen from "expo-splash-screen";
 
 export default function TopicScreen({ navigation }) {
   const route = useRoute();
@@ -31,6 +40,32 @@ export default function TopicScreen({ navigation }) {
     );
     setFilteredLinks(filtered);
   };
+
+  const [fontsLoaded] = useFonts({
+    Nunito_300Light,
+    Nunito_400Regular,
+    Nunito_500Medium,
+    Nunito_600SemiBold,
+    Nunito_700Bold,
+  });
+
+  useEffect(() => {
+    async function prepare() {
+      try {
+        await SplashScreen.preventAutoHideAsync();
+      } catch (e) {
+        console.warn(e);
+      } finally {
+        await SplashScreen.hideAsync();
+      }
+    }
+
+    prepare();
+  }, []);
+
+  if (!fontsLoaded) {
+    return null;
+  }
 
   return (
     <View style={styles.container}>
@@ -55,12 +90,16 @@ export default function TopicScreen({ navigation }) {
             renderItem={({ item }) => (
               <TouchableOpacity onPress={() => Linking.openURL(item.link)}>
                 <View style={styles.linkContainer}>
-                  <ArrowRight
-                    size={24}
-                    color="#FFFFFF"
-                    style={styles.arrowIcon}
+                  <View style={styles.textCont}>
+                    <Text style={styles.linkText}>{item.name}</Text>
+                    <Text style={styles.linkDesc}>{item.desc}</Text>
+                  </View>
+                  <FontAwesome5
+                    name="external-link-alt"
+                    size={16}
+                    color="#0007"
+                    style={styles.externalLink}
                   />
-                  <Text style={styles.linkText}>{item.name}</Text>
                 </View>
               </TouchableOpacity>
             )}
@@ -81,17 +120,17 @@ const styles = StyleSheet.create({
   },
   header: {
     alignItems: "center",
-    marginTop: 10,
+    marginTop: 3,
   },
   title: {
     fontSize: 40,
-    fontWeight: "200",
-    color: "#081b53",
+    fontFamily: "Nunito_400Regular",
+    color: "#000",
     textAlign: "center",
   },
   plus: {
     fontSize: 48,
-    fontWeight: "400",
+    fontFamily: "Nunito_700Bold",
     color: "#B91C1C",
   },
   noResults: {
@@ -99,33 +138,48 @@ const styles = StyleSheet.create({
   },
   noResultsText: {
     fontSize: 18,
-    fontWeight: "normal",
-    color: "#081b53",
+    fontFamily: "Nunito_400Regular",
+    color: "#0007",
     textAlign: "center",
   },
   content: {
     flex: 1,
     width: "100%",
-    marginTop: 20,
+    marginTop: 7,
     marginBottom: 20,
   },
   linkContainer: {
     flexDirection: "row",
     alignItems: "center",
-    marginBottom: 10,
-    backgroundColor: "#FFFFFF",
+    justifyContent: "space-between",
+    marginBottom: 15,
     padding: 10,
     borderRadius: 10,
+    borderBottomWidth: 3,
+    borderColor: "#C7C8CC",
+    borderWidth: 1.5,
   },
-  arrowIcon: {
-    backgroundColor: "#081b53",
-    padding: 5,
-    borderRadius: 5,
+  textCont: {
+    flex: 1,
+    flexDirection: "column",
+    alignItems: "flex-start",
+    justifyContent: "flex-start",
   },
   linkText: {
+    padding: 5,
     fontSize: 18,
-    color: "#1e40af",
-    marginLeft: 10,
-    textDecorationLine: "underline",
+    color: "#000",
+    fontFamily: "Nunito_700Bold",
+  },
+  linkDesc: {
+    marginRight: 6,
+    paddingHorizontal: 7,
+    fontSize: 15,
+    fontFamily: "Nunito_500Medium",
+    alignItems: "flex-start",
+    color: "#000",
+  },
+  externalLink: {
+    alignSelf: "center",
   },
 });
