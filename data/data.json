@@ -130,10 +130,10 @@
   {
     "id": 17,
     "category": "Edebiyat",
-    "name": "Les Folles Danseuses",
+    "name": "Les folles danseuses",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/abraham-dreyfus-les-folles-danseuses.html",
     "icon": "heart",
-    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Les Folles Danseuses adlı hikaye."
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Les folles danseuses adlı hikaye."
   },
   {
     "id": 18,
@@ -252,7 +252,8 @@
     "category": "Eğitim",
     "name": "Français avec Pierre",
     "link": "https://www.youtube.com/@FrancaisavecPierre",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca öğrenmek isteyenler için dil bilgisi, kelime dağarcığı ve kültürle ilgili dersler sunan bir YouTube kanalıdır."
   },
   {
     "id": 33,
@@ -272,583 +273,666 @@
   },
   {
     "id": 35,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "HugoDécrypte - Actus du jour",
-    "link": "https://www.youtube.com/@HugoDecrypte",
-    "icon": "youtube"
+    "link": "https://www.youtube.com/c/HugoD%C3%A9crypte",
+    "icon": "youtube",
+    "desc": "Güncel olayları ve haberleri genç izleyicilere anlaşılır ve öz bir şekilde aktaran bir YouTube kanalıdır."
   },
   {
     "id": 36,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "INA Société",
     "link": "https://www.youtube.com/@Inasociete",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransız Ulusal Arşivi'nden toplumsal, kültürel ve tarihi içerikler sunan bir YouTube kanalıdır."
   },
   {
     "id": 37,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Info ou Mytho ?",
     "link": "https://www.youtube.com/@InfoouMytho",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Popüler olaylar ve internet içeriklerinin doğruluğunu eğlenceli bir şekilde analiz eden bir YouTube kanalıdır."
   },
   {
     "id": 38,
     "category": "Eğitim",
     "name": "Learn French with Alexa",
     "link": "https://www.youtube.com/@learnfrenchwithalexa",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca öğrenenler için temel dil bilgisi, kelime ve telaffuz dersleri sunan bir YouTube kanalıdır."
   },
   {
     "id": 39,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Parlez-vous FRENCH : Cours de français",
     "link": "https://www.youtube.com/@ParlezvousFRENCH",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransızca öğrenenler için günlük ifadeler, dil bilgisi ve kültürel ipuçları sunan bir YouTube kanalıdır."
   },
   {
     "id": 40,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Paroles Lyrics France",
     "link": "https://www.youtube.com/@ParolesLyricsFrance",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransızca şarkıların sözlerini paylaşan ve müzikseverlere hitap eden bir YouTube kanalıdır."
   },
   {
     "id": 41,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Piece of French",
     "link": "https://www.youtube.com/@pieceoffrench",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Günlük yaşamdan sahnelerle doğal Fransızca öğrenmeyi teşvik eden bir YouTube kanalıdır."
   },
   {
     "id": 42,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "Podcast Français Facile",
     "link": "https://www.youtube.com/@podcast_francais_facile",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransızca'yı kolay ve anlaşılır bir şekilde öğrenmek isteyenler için sesli dersler sunan bir YouTube kanalıdır."
   },
   {
     "id": 43,
     "category": "Eğitim",
     "name": "Useful French with Chris",
     "link": "https://www.youtube.com/@UsefulFrench",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Pratik ifadeler ve dil bilgisi odaklı derslerle Fransızca öğrenmeyi kolaylaştıran bir YouTube kanalıdır."
   },
   {
     "id": 44,
-    "category": "Youtube",
+    "category": "YouTube",
     "name": "TRT Français",
     "link": "https://www.youtube.com/@trtfrancais",
-    "icon": "youtube"
+    "icon": "youtube",
+    "desc": "Fransızca öğrenen ve konuşan izleyiciler için uluslararası haberler ve güncel olaylar hakkında içerikler sunan bir YouTube kanalıdır."
   },
   {
     "id": 45,
     "category": "Podcast",
     "name": "À bientôt de te revoir",
     "link": "https://open.spotify.com/show/52EqJyUcpduoCE6Cm8blBw?si=dac186c800a048d3",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Farklı konuklarla eğlenceli ve samimi sohbetler sunan popüler bir Fransız podcast programıdır."
   },
   {
     "id": 46,
     "category": "Podcast",
     "name": "Binge Audio",
     "link": "https://www.binge.audio",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Çeşitli konularda Fransızca dilinde podcastler sunan bir dijital medya platformudur."
   },
   {
     "id": 47,
     "category": "Podcast",
     "name": "Real Life French",
     "link": "https://open.spotify.com/show/400GRC4Cg6epiVJj84PIu5?si=e4baf25ea8184a09",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Günlük hayatta kullanılan doğal Fransızca ifadeler ve kültürel ipuçları sunan bir podcast programıdır."
   },
   {
     "id": 48,
     "category": "Podcast",
     "name": "Learn French with Alexa",
     "link": "https://open.spotify.com/show/1xmmu8rOeaCBWO2vVlAMiH?si=6262fa3cc81140e3",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Fransızca dil bilgisi, kelime bilgisi ve pratik konuşma becerileri üzerine dersler sunan bir podcast programıdır."
   },
   {
     "id": 49,
     "category": "Podcast",
     "name": "Learn French with daily podcasts",
     "link": "https://open.spotify.com/show/3fTcy5v0wlF97bg8DtXmMd?si=87595782e6b54cf0",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Günlük podcastlerle Fransızca kelime bilgisi, dil yapıları ve kültürel konular üzerine odaklanan bir podcast programıdır."
   },
   {
     "id": 50,
     "category": "Podcast",
     "name": "Easy French",
     "link": "https://open.spotify.com/show/6ymiUbRF2qUuQGqpNsGjFC?si=2bb32d4fbceb4ea3",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Günlük konuşmalar ve pratik ifadelerle Fransızca'yı doğal bir şekilde öğrenmeyi amaçlayan bir podcast programıdır."
   },
   {
     "id": 51,
     "category": "Podcast",
     "name": "Le français avec Fluidité",
     "link": "https://open.spotify.com/show/0Uqx5gXwuF2lNhxOQvGzow?si=c54515e920904fb1",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Fransızca'yı akıcı ve doğal bir şekilde öğrenmek isteyenler için pratik dersler ve ipuçları sunan bir podcast programıdır."
   },
   {
     "id": 52,
     "category": "Podcast",
     "name": "Journal en français facile",
     "link": "https://open.spotify.com/show/0AVkxaaQWUC6QAn38x5OmR?si=e7825ca57de34904",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Fransızca öğrenenler için güncel haberleri sade ve anlaşılır bir dille sunan bir podcast programıdır."
   },
   {
     "id": 53,
     "category": "Podcast",
     "name": "French for Beginners",
     "link": "https://open.spotify.com/show/1WeNLllQ5zKndAfHppym4F?si=0cd095fad2fc4db8",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Yeni başlayanlar için temel Fransızca dil bilgisi, kelime ve telaffuz dersleri sunan bir podcast programıdır."
   },
   {
     "id": 54,
     "category": "Podcast",
     "name": "Duolingo French Podcast",
     "link": "https://open.spotify.com/show/2Mu5dTlsG1vRE25twu1P2l?si=540c1916011d4754",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Gerçek hayattan ilham veren hikayelerle Fransızca öğrenmeyi keyifli ve etkili hale getiren bir podcast programıdır."
   },
   {
     "id": 55,
     "category": "Podcast",
     "name": "Café Français",
     "link": "https://open.spotify.com/show/1uY8JCkkoBDGn8Yl8M4B9r?si=0f8799a90d2c423a",
-    "icon": "podcast"
+    "icon": "podcast",
+    "desc": "Fransızca öğrenenlere günlük yaşam, kültür ve dil bilgisi üzerine keyifli sohbetler sunan bir podcast programıdır."
   },
   {
     "id": 56,
     "category": "Film",
     "name": "Lupin",
     "link": "https://www.imdb.com/title/tt2531336/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Ünlü Fransız hırsız Arsène Lupin'den ilham alan Assane Diop'un adalet arayışıyla zekice planlar yaparak intikam peşinde koştuğu bir Netflix dizisidir."
   },
   {
     "id": 57,
     "category": "Film",
     "name": "Amélie",
     "link": "https://www.imdb.com/title/tt0211915/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Paris'te yaşayan hayalperest bir genç kadının, çevresindeki insanların hayatlarını küçük ama anlamlı yollarla değiştirmeye çalışırken kendi mutluluğunu keşfetme hikayesini anlatan bir Fransız filmidir."
   },
   {
     "id": 58,
     "category": "Film",
     "name": "Tendances A1",
     "link": "https://youtube.com/playlist?list=PLIakcO04FIpqPOPJ9ZRL161BhOgOhWzWE&si=mTW6bdCfkFqhv-px",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Bu YouTube oynatma listesi, Fransızca öğrenenler için A1 seviye dil bilgisi ve pratik konuşma becerilerini geliştirmeye yönelik dersler sunmaktadır."
   },
   {
     "id": 59,
     "category": "Film",
     "name": "Tendances A2",
     "link": "https://youtube.com/playlist?list=PLIakcO04FIpqitnNy8UimyHkZaGhI-WIc&si=Lu8TyQQ0dvalWnEG",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Bu YouTube oynatma listesi, Fransızca öğrenenler için A2 seviye dil bilgisi ve pratik konuşma becerilerini geliştirmeye yönelik dersler sunmaktadır."
   },
   {
     "id": 60,
     "category": "Film",
     "name": "Extra en français episodes",
     "link": "https://youtube.com/playlist?list=PLhAxKCm7GPvi1fmbLUbhYhQcLGTZ2Fqwq&si=IxhyDab_K0EOiD8W",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Fransızca öğrenenler için günlük hayatta sık kullanılan kelimeler ve ifadeler üzerine dersler sunmaktadır."
   },
   {
     "id": 61,
     "category": "Film",
     "name": "Le Fille Sur Le Pont",
     "link": "https://www.imdb.com/title/tt0144201/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Hayatı çıkmazda olan genç bir kadının bir bıçak fırlatıcısıyla tanışmasıyla başlayan sıradışı ilişkilerini anlatan duygusal ve stilize bir Fransız filmidir."
   },
   {
     "id": 62,
     "category": "Film",
     "name": "Café de Flore",
     "link": "https://www.imdb.com/title/tt1550312/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Birbirine paralel ilerleyen iki farklı dönemdeki aşk ve kayıp hikayelerini dokunaklı bir şekilde bir araya getiren bir Fransız-Kanada filmidir."
   },
   {
     "id": 63,
     "category": "Film",
     "name": "Petite Maman",
     "link": "https://www.imdb.com/title/tt13204490/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc": "Küçük bir kızın annesinin çocukluk anılarıyla karşılaştığı gizemli ve duygusal bir keşif yolculuğunu anlatan Fransız dram filmidir."
   },
   {
     "id": 64,
     "category": "Film",
     "name": "Les seigneurs de la fraude",
     "link": "https://www.netflix.com/tr/title/81092697",
-    "icon": "film"
+    "icon": "film",
+    "desc": "AB karbon kotası sisteminde hile yaparak milyonları cebe indirdikten sonra birbirlerine düşman kesilen dolandırıcıların yükselişini ve çöküşünü anlatmaktadır."
   },
   {
     "id": 65,
     "category": "Sözlük",
     "name": "Collins",
     "link": "https://www.collinsdictionary.com/dictionary/english-french",
-    "icon": "book"
+    "icon": "book",
+    "desc": "İngilizce ve Fransızca dillerinde kapsamlı çeviri, tanım ve dil bilgisi kaynakları sunan bir çevrimiçi sözlük platformudur."
   },
   {
     "id": 66,
     "category": "Sözlük",
     "name": "Word Reference",
     "link": "https://www.wordreference.com/enfr/",
-    "icon": "book"
+    "icon": "book",
+    "desc": "İngilizce ve Fransızca arasında çeviri, dil bilgisi, telaffuz ve örnek cümleler sunan bir çevrimiçi sözlük ve dil öğrenme kaynağıdır."
   },
   {
     "id": 67,
     "category": "Sözlük",
     "name": "Linguee",
     "link": "https://www.linguee.com/english-french",
-    "icon": "book"
+    "icon": "book",
+    "desc": "İngilizce ve Fransızca arasında çeviri yaparken bağlam içinde örnek cümleler sunan bir çevrimiçi sözlük ve çeviri aracıdır."
   },
   {
     "id": 68,
     "category": "Sözlük",
     "name": "Reverso",
     "link": "https://www.reverso.net/text-translation",
-    "icon": "book"
+    "icon": "book",
+    "desc": "Metin çevirisi, dil bilgisi denetimi ve bağlam içinde örnekler sunan bir çevrimiçi çeviri ve dil öğrenme platformudur."
   },
   {
     "id": 69,
     "category": "Sözlük",
     "name": "FrenchPod101",
     "link": "https://www.frenchpod101.com/french-dictionary/",
-    "icon": "book"
+    "icon": "book",
+    "desc": "Fransızca öğrenenler için kelime çevirileri, telaffuz rehberi ve dil bilgisi kaynakları sunan bir çevrimiçi sözlük ve öğrenme platformudur."
   },
   {
     "id": 70,
     "category": "Sözlük",
     "name": "bab.la",
     "link": "https://en.bab.la/dictionary/english-french/",
-    "icon": "book"
+    "icon": "book",
+    "desc": "İngilizce ve Fransızca arasında çeviri, örnek cümleler ve dil bilgisi kaynakları sunan bir çevrimiçi sözlük platformudur."
   },
   {
     "id": 71,
     "category": "Eğitim",
     "name": "Duolingo",
     "link": "https://www.duolingo.com/course/fr/en/Fransızca-ogren",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Eğlenceli ve etkileşimli derslerle Fransızca öğrenmeyi kolaylaştıran bir dil öğrenme platformudur."
   },
   {
     "id": 72,
     "category": "Eğitim",
     "name": "Babbel",
     "link": "https://www.babbel.com/learn-french",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Fransızca öğrenenler için yapılandırılmış dersler ve pratik alıştırmalar sunan bir dil öğrenme platformudur."
   },
   {
     "id": 73,
     "category": "Eğitim",
     "name": "The French Experiment",
     "link": "https://www.thefrenchexperiment.com",
-    "icon": "school"
+    "icon": "school",
+    "desc": "Hikayeler, dersler ve sesli içeriklerle Fransızca öğrenmeye yardımcı olan bir dil öğrenme platformudur."
   },
   {
     "id": 74,
     "category": "Eğitim",
     "name": "BBC",
     "link": "https://www.bbc.co.uk/languages/french/",
-    "icon": "school"
+    "icon": "school",
+    "desc": "BBC'nin Fransızca öğrenenler için hazırladığı bu site, dil becerilerini geliştirmek için dersler, videolar ve kaynaklar içermektedir."
   },
   {
     "id": 75,
     "category": "Edebiyat",
-    "name": "Le Volcan d’or",
+    "name": "Le volcan d’or",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/jules-verne-le-volcan-dor.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Le volcan d’or adlı hikaye."
   },
   {
     "id": 76,
     "category": "Edebiyat",
     "name": "Il est élu",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zo-daxa-il-est-elu.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Il est élu adlı hikaye."
   },
   {
     "id": 77,
     "category": "Edebiyat",
     "name": "Capitale de la Douleur",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/paul-eluard-capitale-de-la-douleur-selection.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Capitale de la Douleur adlı hikaye."
   },
   {
     "id": 78,
     "category": "Edebiyat",
     "name": "Le Dit de l’Herberie",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/rutebeuf-le-dit-de-lherberie.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Le Dit de l'Herberie adlı hikaye."
   },
   {
     "id": 79,
     "category": "Edebiyat",
     "name": "L’horreur des altitudes",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/arthur-conan-doyle-lhorreur-des-altitudes.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan L’horreur des altitudes adlı hikaye."
   },
   {
     "id": 80,
     "category": "Edebiyat",
     "name": "Par le fond",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/pauline-pucciano-auteur-par-le-fond-2.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Par le fond adlı hikaye."
   },
   {
     "id": 81,
     "category": "Edebiyat",
     "name": "M. Barbey d’Aurevilly",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/olympe-audouard-m-barbey-daurevilly-reponse-a-ses-requisitoires-contre-les-bas-bleus.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan M. Barbey d’Aurevilly adlı hikaye."
   },
   {
     "id": 82,
     "category": "Edebiyat",
     "name": "Au jardin du Luxembourg",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/francois-coppee-au-jardin-du-luxembourg-poeme.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Au jardin du Luxembourg adlı hikaye."
   },
   {
     "id": 83,
     "category": "Edebiyat",
     "name": "Ainsi parlait Zarathoustra",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/nietzsche-friedrich-ainsi-parlait-zarathoustra-livre-1.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Ainsi parlait Zarathoustra adlı hikaye."
   },
   {
     "id": 84,
     "category": "Edebiyat",
     "name": "Le Chien des Baskerville",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/conan-doyle-arthur-le-chien-des-baskerville.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Le Chien des Baskerville adlı hikaye."
   },
   {
     "id": 85,
     "category": "Edebiyat",
     "name": "Thérèse Raquin",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-therese-raquin.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Thérèse Raquin adlı hikaye."
   },
   {
     "id": 86,
     "category": "Edebiyat",
     "name": "Naïs Micoulin",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-nais-micoulin.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Naïs Micoulin adlı hikaye."
   },
   {
     "id": 87,
     "category": "Edebiyat",
     "name": "Une page d’amour",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-une-page-damour.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Une page d'amour adlı hikaye."
   },
   {
     "id": 88,
     "category": "Edebiyat",
     "name": "Henri IV",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/alexandre-dumas-henri-iv.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Henri IV adlı hikaye."
   },
   {
     "id": 89,
     "category": "Edebiyat",
     "name": "Le Vicomte de Bragelonne",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/dumas-alexandre-le-vicomte-de-bragelonne-deuxieme-partie.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Le Vicomte de Bragelonne adlı hikaye."
   },
   {
     "id": 90,
     "category": "Edebiyat",
     "name": "Le Chat, la belette et le petit lapin",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/jean-de-la-fontaine-le-chat-la-belette-et-le-petit-lapin.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Le Chat, la belette et le petit lapin adlı hikaye."
   },
   {
     "id": 91,
     "category": "Edebiyat",
     "name": "Le Témoignage de Randolph Carter",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/howard-phillips-lovecraft-le-temoignage-de-randolph-carter.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Le Témoignage de Randolph Carter adlı hikaye."
   },
   {
     "id": 92,
     "category": "Edebiyat",
     "name": "La Reine Ysabeau",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/auguste-de-villiers-de-lisle-adam-la-reine-ysabeau-2.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan La Reine Ysabeau adlı hikaye."
   },
   {
     "id": 93,
     "category": "Edebiyat",
     "name": "Du côté de chez Swann",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/marcel-proust-du-cote-de-chez-swann.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Du côté de chez Swann adlı hikaye."
   },
   {
     "id": 94,
     "category": "Edebiyat",
     "name": "Trois Morts",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/leon-tolstoi-trois-morts.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Trois Morts adlı hikaye."
   },
   {
     "id": 95,
     "category": "Edebiyat",
     "name": "Le Nuage pourpre",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/matthew-phipps-shiel-le-nuage-pourpre.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Le Nuage pourpre adlı hikaye."
   },
   {
     "id": 96,
     "category": "Edebiyat",
     "name": "La Baleine et son gosier",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/rudyard-kipling-la-baleine-et-son-gosier.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan La Baleine et son gosier adlı hikaye."
   },
   {
     "id": 97,
     "category": "Edebiyat",
     "name": "Le Retour d’Arsène Lupin",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/francis-de-croisset-maurice-leblanc-le-retour-darsene-lupin.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Le Retour d’Arsène Lupin adlı hikaye."
   },
   {
     "id": 98,
     "category": "Edebiyat",
     "name": "Notre-Dame de Paris",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/victor-hugo-notre-dame-de-paris.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Notre-Dame de Paris adlı hikaye."
   },
   {
     "id": 99,
     "category": "Edebiyat",
     "name": "Madame Bovary",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/gustave-flaubert-madame-bovary.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Madame Bovary adlı hikaye."
   },
   {
     "id": 100,
     "category": "Edebiyat",
     "name": "L’Argent",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/zola-emile-largent.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan L'Argent adlı hikaye."
   },
   {
     "id": 101,
     "category": "Edebiyat",
     "name": "Rose",
     "link": "https://www.litteratureaudio.com/livre-audio-gratuit-mp3/maupassant-guy-rose.html",
-    "icon": "heart"
+    "icon": "heart",
+    "desc": "Fransızca edebi eserlerin ücretsiz sesli kitap versiyonlarını sunan Littérature Audio platformundan Rose adlı hikaye."
   },
   {
     "id": 102,
     "category": "Film",
     "name": "La Mante",
     "link": "https://www.imdb.com/title/tt6467482/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Seri katilleri yakalamak için polisle iş birliği yapan ünlü bir kadın seri katilin hikayesini konu alan gerilim dolu bir Fransız suç dizisidir."
   },
   {
     "id": 103,
     "category": "Film",
     "name": "Une mère parfaite",
     "link": "https://www.imdb.com/title/tt15341198/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Kızının suçlu olabileceği bir cinayeti çözmeye çalışan bir annenin gerilim dolu mücadelesini anlatan Fransız yapımı bir dram ve suç dizisidir."
   },
   {
     "id": 104,
     "category": "Film",
     "name": "Braqueurs",
     "link": "https://www.imdb.com/title/tt6833910/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Bir uyuşturucu savaşına sürüklenen deneyimli bir soyguncunun ailesini korumak için verdiği mücadelenin anlatıldığı aksiyon dolu bir Fransız suç dizisidir."
   },
   {
     "id": 105,
     "category": "Film",
     "name": "M’entends-tu?",
     "link": "https://www.imdb.com/title/tt9747016/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Üç yakın arkadaşın zorlu yaşam koşulları ve kişisel mücadeleleriyle başa çıkmaya çalışırken dostluklarını ayakta tutmaya çalışmalarını konu alan bir dizidir."
   },
   {
     "id": 106,
     "category": "Film",
     "name": "Dix pour cent",
     "link": "https://www.imdb.com/title/tt4277922/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Ünlü Fransız oyuncuların menajerlerini konu alarak sinema dünyasının perde arkasındaki komik ve dramatik olayları anlatan bir Fransız komedi-drama dizisidir."
   },
   {
     "id": 107,
     "category": "Film",
     "name": "On va s'aimer un peu, beaucoup",
     "link": "https://www.imdb.com/title/tt6730152/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Bir anne-kızın işlettiği hukuk bürosunda aile davalarıyla uğraşırken kendi karmaşık ilişkilerini de yönettikleri sıcak ve eğlenceli bir Fransız komedi-drama dizisidir."
   },
   {
     "id": 108,
     "category": "Film",
     "name": "Plan cœur",
     "link": "https://www.imdb.com/title/tt9170638/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Paris'te yaşayan bir kadının aşk hayatını canlandırmak için arkadaşlarının ona gizlice bir arkadaş ayarlamasıyla gelişen komik ve romantik olayları konu alan bir Fransız dizisidir."
   },
   {
     "id": 109,
     "category": "Film",
-    "name": "“La forêt",
+    "name": "La forêt",
     "link": "https://www.imdb.com/title/tt6560040/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Küçük bir kasabada bir genç kızın kaybolmasının ardından ortaya çıkan karanlık sırları araştıran bir polis memurunun gerilim dolu hikayesini anlatan bir Fransız suç dizisidir."
   },
   {
     "id": 110,
     "category": "Film",
     "name": "Un village français",
     "link": "https://www.imdb.com/title/tt1288631/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"II. Dünya Savaşı sırasında Nazi işgali altındaki bir Fransız köyünde yaşayan insanların hayatta kalma mücadelesini ve direniş hareketini konu alan bir tarihi drama dizisidir."
   },
   {
     "id": 111,
     "category": "Film",
     "name": "Les revenants",
     "link": "https://www.imdb.com/title/tt2521668/?ref_=ext_shr_lnk",
-    "icon": "film"
+    "icon": "film",
+    "desc":"Ölülerin gizemli bir şekilde hayata geri döndüğü bir kasabada, sakinlerin bu doğaüstü olayla başa çıkmaya çalıştıkları gerilim ve gizem dolu bir Fransız dizisidir."
   },
   {
     "id": 112,
     "category": "Haber",
     "name": "France info",
     "link": "https://www.francetvinfo.fr",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "desc":"Fransa ve dünyadan güncel haberleri, analizleri ve videoları sunan bir Fransız haber portalıdır."
   },
   {
     "id": 113,
     "category": "Haber",
     "name": "Le Monde",
     "link": "https://www.lemonde.fr",
-    "icon": "newspaper"
+    "icon": "newspaper",
+    "desc":"Fransa ve dünya çapında politika, ekonomi, kültür ve daha birçok alanda haberler sunan saygın bir Fransız gazetesi ve haber platformudur."
   },
   {
     "id": 114,
     "category": "Eğitim",
     "name": "Le français facile avec rfi",
     "link": "https://francaisfacile.rfi.fr/fr/",
-    "icon": "school"
+    "icon": "school",
+    "desc":"Fransızca öğrenenler için basitleştirilmiş haber içerikleri, dil dersleri ve alıştırmalar sunan bir eğitim platformudur."
   },
   {
     "id": 115,
     "category": "Eğitim",
     "name": "Le Web Pédagogique",
     "link": "https://lewebpedagogique.com",
-    "icon": "school"
+    "icon": "school",
+    "desc":"Öğretmenler ve öğrenciler için eğitim materyalleri, bloglar ve ders içerikleri sağlayan bir dijital eğitim platformudur."
   },
   {
     "id": 116,
     "category": "Eğitim",
     "name": "Bonjour de France",
     "link": "https://www.bonjourdefrance.com",
-    "icon": "school"
+    "icon": "school",
+    "desc":"Fransızca öğrenenler için interaktif dil dersleri, alıştırmalar ve kültürel kaynaklar sunan bir eğitim sitesidir."
   },
   {
     "id": 117,
     "category": "Eğitim",
     "name": "École Polytechnique",
     "link": "https://www.coursera.org/ep",
-    "icon": "school"
+    "icon": "school",
+    "desc":"Coursera'nın EPFL (École Polytechnique Fédérale de Lausanne) ile iş birliği yaptığı bu sayfa, çeşitli alanlarda dünya çapında çevrimiçi kurslar ve sertifika programları sunmaktadır."
   }
 ]

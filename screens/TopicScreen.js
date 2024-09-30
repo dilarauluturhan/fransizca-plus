@@ -9,7 +9,7 @@ import {
 import React, { useEffect, useState } from "react";
 import SearchArea from "../components/SearchArea";
 import jsonData from "../data/data.json";
-import FontAwesome5 from "@expo/vector-icons/FontAwesome5";
+import { FontAwesome5, MaterialCommunityIcons } from "@expo/vector-icons";
 import { useRoute } from "@react-navigation/native";
 import {
   useFonts,
@@ -77,8 +77,15 @@ export default function TopicScreen({ navigation }) {
       </View>
       {filteredLinks.length === 0 ? (
         <View style={styles.noResults}>
+          <View style={styles.eyeOff}>
+            <MaterialCommunityIcons
+              name="eye-off-outline"
+              size={30}
+              color="#0007"
+            />
+          </View>
           <Text style={styles.noResultsText}>
-            Aradığınız sonuç bulunamamıştır...
+            Aradığınız kaynak bulunamamıştır.
           </Text>
         </View>
       ) : (
@@ -120,7 +127,7 @@ const styles = StyleSheet.create({
   },
   header: {
     alignItems: "center",
-    marginTop: 3,
+    marginTop: 2,
   },
   title: {
     fontSize: 40,
@@ -135,6 +142,10 @@ const styles = StyleSheet.create({
   },
   noResults: {
     marginTop: 20,
+  },
+  eyeOff: {
+    alignItems: "center",
+    justifyContent: "center",
   },
   noResultsText: {
     fontSize: 18,
