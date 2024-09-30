@@ -2,11 +2,11 @@
   <h1 align="center">Fransızca+</h1>
 </div>
 
-![play_store_feature_graphic](https://github.com/user-attachments/assets/1969b806-d586-4f53-b761-f00b157b9c03)
+![7](https://github.com/user-attachments/assets/ea801784-7e3d-44d4-8184-b70efa9551c6)
 
-![111](https://github.com/user-attachments/assets/ee333da0-24fe-4657-ae1b-187dd9847529)
+![7](https://github.com/user-attachments/assets/b0d69c1c-b2f0-4054-8576-eded9b258237)
 
-![222](https://github.com/user-attachments/assets/896a31d3-21b1-4d2e-b00a-353c19fe1f13)
+![7](https://github.com/user-attachments/assets/2d325a00-79fd-4c55-a026-eeb4a9ded7d2)
 
 ## Özellikler
 Fransızca+, French Library projemin bir parçası olarak React Native ile geliştirilmiş bir mobil uygulamadır. Bu uygulama, Fransızca öğrenen bireylerin ihtiyaç duydukları kaynaklara kolayca erişmelerini sağlamak amacıyla tasarlanmıştır.
