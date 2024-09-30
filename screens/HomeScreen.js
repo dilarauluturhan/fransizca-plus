@@ -17,7 +17,7 @@ import {
   Nunito_700Bold,
 } from "@expo-google-fonts/nunito";
 import * as SplashScreen from "expo-splash-screen";
-import { FontAwesome5 } from "@expo/vector-icons";
+import { FontAwesome5, MaterialCommunityIcons } from "@expo/vector-icons";
 
 export default function HomeScreen({ navigation }) {
   const [categories, setCategories] = useState([]);
@@ -83,8 +83,15 @@ export default function HomeScreen({ navigation }) {
       </View>
       {filteredCategories.length === 0 ? (
         <View style={styles.noResults}>
+          <View style={styles.eyeOff}>
+            <MaterialCommunityIcons
+              name="eye-off-outline"
+              size={30}
+              color="#0007"
+            />
+          </View>
           <Text style={styles.noResultsText}>
-            Aradığınız sonuç bulunamamıştır...
+            Aradığınız kategori bulunamamıştır.
           </Text>
         </View>
       ) : (
@@ -149,6 +156,10 @@ const styles = StyleSheet.create({
   },
   noResults: {
     marginTop: 20,
+  },
+  eyeOff: {
+    alignItems: "center",
+    justifyContent: "center",
   },
   noResultsText: {
     fontSize: 18,

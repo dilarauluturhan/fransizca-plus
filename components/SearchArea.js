@@ -32,7 +32,12 @@ export default function SearchArea({ onSearch }) {
         size={35}
         strokeWidth={1.25}
         color="#ffffff"
-        style={styles.close}
+        style={[
+          styles.close,
+          {
+            backgroundColor: searchText ? "#891C1C" : "#C7C8CC",
+          },
+        ]}
       />
     </View>
   );
@@ -57,7 +62,6 @@ const styles = StyleSheet.create({
     paddingLeft: 10,
   },
   close: {
-    backgroundColor: "#C7C8CC",
     borderRadius: 7,
     padding: 5,
   },
