@@ -17,7 +17,6 @@ import {
   Nunito_700Bold,
 } from "@expo-google-fonts/nunito";
 import * as SplashScreen from "expo-splash-screen";
-import { FontAwesome5, MaterialCommunityIcons } from "@expo/vector-icons";
 
 export default function HomeScreen({ navigation }) {
   const [categories, setCategories] = useState([]);
@@ -64,11 +63,6 @@ export default function HomeScreen({ navigation }) {
     return null;
   }
 
-  const getIconForCategory = (category) => {
-    const item = jsonData.find((data) => data.category === category);
-    return item ? item.icon : "heart";
-  };
-
   return (
     <View style={styles.container}>
       <View style={styles.header}>
@@ -83,13 +77,6 @@ export default function HomeScreen({ navigation }) {
       </View>
       {filteredCategories.length === 0 ? (
         <View style={styles.noResults}>
-          <View style={styles.eyeOff}>
-            <MaterialCommunityIcons
-              name="eye-off-outline"
-              size={30}
-              color="#0007"
-            />
-          </View>
           <Text style={styles.noResultsText}>
             Aradığınız kategori bulunamamıştır.
           </Text>
@@ -108,11 +95,6 @@ export default function HomeScreen({ navigation }) {
                     navigation.navigate("Kaynak Listesi", { category: item })
                   }
                 >
-                  <FontAwesome5
-                    name={getIconForCategory(item)}
-                    size={18}
-                    color="white"
-                  />
                   <Text style={styles.buttonText}>{item}</Text>
                 </TouchableOpacity>
               </View>
@@ -156,10 +138,6 @@ const styles = StyleSheet.create({
   },
   noResults: {
     marginTop: 20,
-  },
-  eyeOff: {
-    alignItems: "center",
-    justifyContent: "center",
   },
   noResultsText: {
     fontSize: 18,

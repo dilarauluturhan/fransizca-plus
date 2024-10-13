@@ -560,14 +560,6 @@
     "desc": "İngilizce ve Fransızca arasında çeviri, örnek cümleler ve dil bilgisi kaynakları sunan bir çevrimiçi sözlük platformudur."
   },
   {
-    "id": 71,
-    "category": "Eğitim",
-    "name": "Duolingo",
-    "link": "https://www.duolingo.com/course/fr/en/Fransızca-ogren",
-    "icon": "school",
-    "desc": "Eğlenceli ve etkileşimli derslerle Fransızca öğrenmeyi kolaylaştıran bir dil öğrenme platformudur."
-  },
-  {
     "id": 72,
     "category": "Eğitim",
     "name": "Babbel",
@@ -813,7 +805,7 @@
     "name": "La Mante",
     "link": "https://www.imdb.com/title/tt6467482/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Seri katilleri yakalamak için polisle iş birliği yapan ünlü bir kadın seri katilin hikayesini konu alan gerilim dolu bir Fransız suç dizisidir."
+    "desc": "Seri katilleri yakalamak için polisle iş birliği yapan ünlü bir kadın seri katilin hikayesini konu alan gerilim dolu bir Fransız suç dizisidir."
   },
   {
     "id": 103,
@@ -821,7 +813,7 @@
     "name": "Une mère parfaite",
     "link": "https://www.imdb.com/title/tt15341198/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Kızının suçlu olabileceği bir cinayeti çözmeye çalışan bir annenin gerilim dolu mücadelesini anlatan Fransız yapımı bir dram ve suç dizisidir."
+    "desc": "Kızının suçlu olabileceği bir cinayeti çözmeye çalışan bir annenin gerilim dolu mücadelesini anlatan Fransız yapımı bir dram ve suç dizisidir."
   },
   {
     "id": 104,
@@ -829,7 +821,7 @@
     "name": "Braqueurs",
     "link": "https://www.imdb.com/title/tt6833910/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Bir uyuşturucu savaşına sürüklenen deneyimli bir soyguncunun ailesini korumak için verdiği mücadelenin anlatıldığı aksiyon dolu bir Fransız suç dizisidir."
+    "desc": "Bir uyuşturucu savaşına sürüklenen deneyimli bir soyguncunun ailesini korumak için verdiği mücadelenin anlatıldığı aksiyon dolu bir Fransız suç dizisidir."
   },
   {
     "id": 105,
@@ -837,7 +829,7 @@
     "name": "M’entends-tu?",
     "link": "https://www.imdb.com/title/tt9747016/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Üç yakın arkadaşın zorlu yaşam koşulları ve kişisel mücadeleleriyle başa çıkmaya çalışırken dostluklarını ayakta tutmaya çalışmalarını konu alan bir dizidir."
+    "desc": "Üç yakın arkadaşın zorlu yaşam koşulları ve kişisel mücadeleleriyle başa çıkmaya çalışırken dostluklarını ayakta tutmaya çalışmalarını konu alan bir dizidir."
   },
   {
     "id": 106,
@@ -845,7 +837,7 @@
     "name": "Dix pour cent",
     "link": "https://www.imdb.com/title/tt4277922/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Ünlü Fransız oyuncuların menajerlerini konu alarak sinema dünyasının perde arkasındaki komik ve dramatik olayları anlatan bir Fransız komedi-drama dizisidir."
+    "desc": "Ünlü Fransız oyuncuların menajerlerini konu alarak sinema dünyasının perde arkasındaki komik ve dramatik olayları anlatan bir Fransız komedi-drama dizisidir."
   },
   {
     "id": 107,
@@ -853,7 +845,7 @@
     "name": "On va s'aimer un peu, beaucoup",
     "link": "https://www.imdb.com/title/tt6730152/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Bir anne-kızın işlettiği hukuk bürosunda aile davalarıyla uğraşırken kendi karmaşık ilişkilerini de yönettikleri sıcak ve eğlenceli bir Fransız komedi-drama dizisidir."
+    "desc": "Bir anne-kızın işlettiği hukuk bürosunda aile davalarıyla uğraşırken kendi karmaşık ilişkilerini de yönettikleri sıcak ve eğlenceli bir Fransız komedi-drama dizisidir."
   },
   {
     "id": 108,
@@ -861,7 +853,7 @@
     "name": "Plan cœur",
     "link": "https://www.imdb.com/title/tt9170638/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Paris'te yaşayan bir kadının aşk hayatını canlandırmak için arkadaşlarının ona gizlice bir arkadaş ayarlamasıyla gelişen komik ve romantik olayları konu alan bir Fransız dizisidir."
+    "desc": "Paris'te yaşayan bir kadının aşk hayatını canlandırmak için arkadaşlarının ona gizlice bir arkadaş ayarlamasıyla gelişen komik ve romantik olayları konu alan bir Fransız dizisidir."
   },
   {
     "id": 109,
@@ -869,7 +861,7 @@
     "name": "La forêt",
     "link": "https://www.imdb.com/title/tt6560040/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Küçük bir kasabada bir genç kızın kaybolmasının ardından ortaya çıkan karanlık sırları araştıran bir polis memurunun gerilim dolu hikayesini anlatan bir Fransız suç dizisidir."
+    "desc": "Küçük bir kasabada bir genç kızın kaybolmasının ardından ortaya çıkan karanlık sırları araştıran bir polis memurunun gerilim dolu hikayesini anlatan bir Fransız suç dizisidir."
   },
   {
     "id": 110,
@@ -877,7 +869,7 @@
     "name": "Un village français",
     "link": "https://www.imdb.com/title/tt1288631/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"II. Dünya Savaşı sırasında Nazi işgali altındaki bir Fransız köyünde yaşayan insanların hayatta kalma mücadelesini ve direniş hareketini konu alan bir tarihi drama dizisidir."
+    "desc": "II. Dünya Savaşı sırasında Nazi işgali altındaki bir Fransız köyünde yaşayan insanların hayatta kalma mücadelesini ve direniş hareketini konu alan bir tarihi drama dizisidir."
   },
   {
     "id": 111,
@@ -885,7 +877,7 @@
     "name": "Les revenants",
     "link": "https://www.imdb.com/title/tt2521668/?ref_=ext_shr_lnk",
     "icon": "film",
-    "desc":"Ölülerin gizemli bir şekilde hayata geri döndüğü bir kasabada, sakinlerin bu doğaüstü olayla başa çıkmaya çalıştıkları gerilim ve gizem dolu bir Fransız dizisidir."
+    "desc": "Ölülerin gizemli bir şekilde hayata geri döndüğü bir kasabada, sakinlerin bu doğaüstü olayla başa çıkmaya çalıştıkları gerilim ve gizem dolu bir Fransız dizisidir."
   },
   {
     "id": 112,
@@ -893,7 +885,7 @@
     "name": "France info",
     "link": "https://www.francetvinfo.fr",
     "icon": "newspaper",
-    "desc":"Fransa ve dünyadan güncel haberleri, analizleri ve videoları sunan bir Fransız haber portalıdır."
+    "desc": "Fransa ve dünyadan güncel haberleri, analizleri ve videoları sunan bir Fransız haber portalıdır."
   },
   {
     "id": 113,
@@ -901,7 +893,7 @@
     "name": "Le Monde",
     "link": "https://www.lemonde.fr",
     "icon": "newspaper",
-    "desc":"Fransa ve dünya çapında politika, ekonomi, kültür ve daha birçok alanda haberler sunan saygın bir Fransız gazetesi ve haber platformudur."
+    "desc": "Fransa ve dünya çapında politika, ekonomi, kültür ve daha birçok alanda haberler sunan saygın bir Fransız gazetesi ve haber platformudur."
   },
   {
     "id": 114,
@@ -909,7 +901,7 @@
     "name": "Le français facile avec rfi",
     "link": "https://francaisfacile.rfi.fr/fr/",
     "icon": "school",
-    "desc":"Fransızca öğrenenler için basitleştirilmiş haber içerikleri, dil dersleri ve alıştırmalar sunan bir eğitim platformudur."
+    "desc": "Fransızca öğrenenler için basitleştirilmiş haber içerikleri, dil dersleri ve alıştırmalar sunan bir eğitim platformudur."
   },
   {
     "id": 115,
@@ -917,7 +909,7 @@
     "name": "Le Web Pédagogique",
     "link": "https://lewebpedagogique.com",
     "icon": "school",
-    "desc":"Öğretmenler ve öğrenciler için eğitim materyalleri, bloglar ve ders içerikleri sağlayan bir dijital eğitim platformudur."
+    "desc": "Öğretmenler ve öğrenciler için eğitim materyalleri, bloglar ve ders içerikleri sağlayan bir dijital eğitim platformudur."
   },
   {
     "id": 116,
@@ -925,7 +917,7 @@
     "name": "Bonjour de France",
     "link": "https://www.bonjourdefrance.com",
     "icon": "school",
-    "desc":"Fransızca öğrenenler için interaktif dil dersleri, alıştırmalar ve kültürel kaynaklar sunan bir eğitim sitesidir."
+    "desc": "Fransızca öğrenenler için interaktif dil dersleri, alıştırmalar ve kültürel kaynaklar sunan bir eğitim sitesidir."
   },
   {
     "id": 117,
@@ -933,6 +925,6 @@
     "name": "École Polytechnique",
     "link": "https://www.coursera.org/ep",
     "icon": "school",
-    "desc":"Coursera'nın EPFL (École Polytechnique Fédérale de Lausanne) ile iş birliği yaptığı bu sayfa, çeşitli alanlarda dünya çapında çevrimiçi kurslar ve sertifika programları sunmaktadır."
+    "desc": "Coursera'nın EPFL (École Polytechnique Fédérale de Lausanne) ile iş birliği yaptığı bu sayfa, çeşitli alanlarda dünya çapında çevrimiçi kurslar ve sertifika programları sunmaktadır."
   }
 ]

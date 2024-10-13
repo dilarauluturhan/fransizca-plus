@@ -77,13 +77,6 @@ export default function TopicScreen({ navigation }) {
       </View>
       {filteredLinks.length === 0 ? (
         <View style={styles.noResults}>
-          <View style={styles.eyeOff}>
-            <MaterialCommunityIcons
-              name="eye-off-outline"
-              size={30}
-              color="#0007"
-            />
-          </View>
           <Text style={styles.noResultsText}>
             Aradığınız kaynak bulunamamıştır.
           </Text>
@@ -142,10 +135,6 @@ const styles = StyleSheet.create({
   },
   noResults: {
     marginTop: 20,
-  },
-  eyeOff: {
-    alignItems: "center",
-    justifyContent: "center",
   },
   noResultsText: {
     fontSize: 18,
