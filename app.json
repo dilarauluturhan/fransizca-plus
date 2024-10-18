@@ -2,35 +2,35 @@
   "expo": {
     "name": "fransizca-plus",
     "slug": "fransizca-plus",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/fplus.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/fplus.png",
       "resizeMode": "contain",
-      "backgroundColor": "#000"
+      "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dilarauluturhan.fransizcaplus"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#000"
+        "foregroundImage": "./assets/fplus.png",
+        "backgroundColor": "#ffffff"
       },
       "package": "com.dilarauluturhan.fransizcaplus"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/fplus.png"
     },
-    "plugins": [
-      "expo-font"
-    ],
+    "plugins": ["expo-font"],
     "extra": {
       "eas": {
         "projectId": "23b701e2-15f6-431f-83bf-68efec5df480"
       }
-    }
+    },
+    "owner": "erowich"
   }
 }
